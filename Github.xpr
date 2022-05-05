@@ -33,12 +33,12 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Topics/Simplified%20User%20Interface/t_SUI_3_how_to_create_sui.dita</String>
+                                    <String>Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_2_format.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>WebHelp Responsive</String>
                                         <String>PDF (CSS Formatter - HTML5)</String>
+                                        <String>WebHelp Responsive</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -56,7 +56,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Topics/Simplified%20User%20Interface/t_SUI_2_why_to_use_it.dita</String>
+                                    <String>Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_1_size.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -102,7 +102,30 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_1_size.dita</String>
+                                    <String>Topics/Simplified%20User%20Interface/t_SUI_3_how_to_create_sui.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>WebHelp Responsive</String>
+                                        <String>PDF (CSS Formatter - HTML5)</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Topics/Simplified%20User%20Interface/t_SUI_2_why_to_use_it.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

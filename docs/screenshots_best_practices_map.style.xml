@@ -115,8 +115,8 @@
                                 <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_9" type="task">
                                     <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_how_to_6_layout_of_images">
                                         <div appid="t_how_to_6_layout_of_images" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_9" css:text-align-last="justify" href="#unique_9"><css:before css:display="inline" css:link="#unique_9"/>
-                                            Layout of images on a
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_9" css:text-align-last="justify" href="#unique_9"><css:before css:display="inline" css:link="#unique_9"/>Layout
+                                            of images on a
                                             page<css:after css:display="inline" css:link="#unique_9"><css:leader pattern="."/><css:target-counter url-fragment="unique_9"/></css:after></div>
                                         <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
                                         <div class="- topic/author author" css:display="none">Ewa
@@ -707,7 +707,7 @@
                                 </div>
                             </article>
                             <article aria-labelledby="ariaid-title9" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_9" nd:nd-id="t_how_to_6_layout_of_images" oid="t_how_to_6_layout_of_images" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title9"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> Layout of images on a page</span></h2>
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title9"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Layout of images on a page</span></h2>
                                 <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                     <div class="- topic/author author" css:display="none">Ewa
                                         Bołoz</div>

@@ -87,8 +87,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9">
-                                            Layout of images on a
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9">Layout
+                                            of images on a
                                             page</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9"><fo:page-number-citation ref-id="unique_9"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
@@ -617,7 +617,7 @@
                                 </fo:block></fo:block-container>
                             </fo:block>
                             <fo:block role="Sect" id="unique_9" chfox:nd-id="t_how_to_6_layout_of_images">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title9"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> Layout of images on a page</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title9"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>Layout of images on a page</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
