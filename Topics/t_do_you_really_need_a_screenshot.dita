@@ -56,7 +56,7 @@
                     for selection</li>
                 <li>to emphasize a new feature or change in the UI</li>
             </ul>
-            <p> Do not create or use screenshots of the following items:</p>
+            <p>&#10062; Do not create or use screenshots of the following items:</p>
             <ul id="ul_g2k_2j5_ktb">
                 <li>code samples (instead, show code samples in code blocks)</li>
                 <li>dialog boxes that are easy to understand, such as drop-down lists and option

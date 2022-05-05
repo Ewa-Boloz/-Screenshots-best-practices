@@ -562,13 +562,13 @@
                                         </ditaParameter>
                                         <ditaParameter>
                                             <field name="name">
-                                                <String>webhelp.pdf.link.url</String>
+                                                <String>webhelp.pdf.link.text</String>
                                             </field>
                                             <field name="description">
                                                 <null/>
                                             </field>
                                             <field name="value">
-                                                <String>https://ewa-boloz.github.io/-Screenshots-best-practices/screenshots_best_practices_map.pdf</String>
+                                                <String>Download project in PDF</String>
                                             </field>
                                             <field name="defaultValue">
                                                 <null/>
@@ -585,13 +585,13 @@
                                         </ditaParameter>
                                         <ditaParameter>
                                             <field name="name">
-                                                <String>webhelp.pdf.link.text</String>
+                                                <String>webhelp.pdf.link.url</String>
                                             </field>
                                             <field name="description">
                                                 <null/>
                                             </field>
                                             <field name="value">
-                                                <String>Download project in PDF.</String>
+                                                <String>https://ewa-boloz.github.io/-Screenshots-best-practices/screenshots_best_practices_map.pdf</String>
                                             </field>
                                             <field name="defaultValue">
                                                 <null/>
