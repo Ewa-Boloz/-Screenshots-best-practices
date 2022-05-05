@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="my_first_topic" path="Topics/c_welcome.html"/>
+   <appContext helpID="t_my_first_task" path="Topics/t_terminology.html"/>
+   <appContext helpID="t_my_second_task"
+               path="Topics/t_How%20to%20create%20a%20perfect%20screenshot.html"/>
+   <appContext helpID="t_my_third_task"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_1_size.html"/>
+   <appContext helpID="t_my_fourth_task"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_2_format.html"/>
+   <appContext helpID="t_my_sixth_task"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_3_cursor.html"/>
+   <appContext helpID="t_my_seventh_task"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.html"/>
+   <appContext helpID="t_my_ninth_task"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_5_graphic%20elements.html"/>
+   <appContext helpID="t_how_to_6_layout_of_images"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_6_layout_of_images.html"/>
+   <appContext helpID="t_how_to_7_text_in_figures"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_7_text_in_figures.html"/>
+   <appContext helpID="t_how_to_8_text_associated_with_images"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_8_text_associated_with_images.html"/>
+   <appContext helpID="t_how_to_9_pictue_filenames"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_9_picture_filenames.html"/>
+   <appContext helpID="t_how_to_10_keep_originals"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_10_keep_originals.html"/>
+   <appContext helpID="t_my_fifth_task" path="Topics/t_simplified_user_interface.html"/>
+   <appContext helpID="SUI_1_what_is_sui"
+               path="Topics/Simplified%20User%20Interface/t_SUI_1_what_is_sui.html"/>
+   <appContext helpID="SUI_1_why_to_use_it"
+               path="Topics/Simplified%20User%20Interface/t_SUI_2_why_to_use_it.html"/>
+   <appContext helpID="t_SUI_3_how_to_create_sui"
+               path="Topics/Simplified%20User%20Interface/t_SUI_3_how_to_create_sui.html"/>
+   <appContext helpID="t_do_you_really_need_a_screenshot"
+               path="Topics/t_do_you_really_need_a_screenshot.html"/>
+   <appContext helpID="t_think_about_privacy" path="Topics/t_think_about_privacy.html"/>
+   <appContext helpID="t_think_about_1_what_is_pii"
+               path="Topics/Think%20about%20privacy/t_think%20about_1_what_is_pii.html"/>
+   <appContext helpID="t_think_about_2_what_is_spii"
+               path="Topics/Think%20about%20privacy/t_think%20about_2_what_is_spii.html"/>
+   <appContext helpID="t_useful_tools_free_and_paid"
+               path="Topics/t_useful_tools_free_and_paid.html"/>
+   <appContext helpID="t_useful_tools_1_snagit"
+               path="Topics/Useful%20tools/Paid%20tools/t_useful%20tools_paid.html"/>
+   <appContext helpID="t_snagit"
+               path="Topics/Useful%20tools/Paid%20tools/t_1_%20snagit.html"/>
+   <appContext helpID="t_wondershare_democreator"
+               path="Topics/Useful%20tools/Paid%20tools/t_2_screenpresso.html"/>
+   <appContext helpID="t_3_passfab_screen_recorder"
+               path="Topics/Useful%20tools/Paid%20tools/t_3_fast_stone_capture.html"/>
+   <appContext helpID="t_useful_tools_2_wondershare_democreator"
+               path="Topics/Useful%20tools/Free%20tools/t_useful%20tools_free.html"/>
+   <appContext helpID="t_1_snipping_tool"
+               path="Topics/Useful%20tools/Free%20tools/t_1_snipping_tool.html"/>
+   <appContext helpID="t_2_jing"
+               path="Topics/Useful%20tools/Free%20tools/t_2_jing.html"/>
+   <appContext helpID="t_3_skitch"
+               path="Topics/Useful%20tools/Free%20tools/t_3_skitch.html"/>
+   <appContext helpID="t_my_second_task"
+               path="Topics/t_How%20to%20create%20a%20perfect%20screenshot.html"/>
+   <appContext helpID="t_my_third_task"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_1_size.html"/>
+   <appContext helpID="t_my_fourth_task"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_2_format.html"/>
+   <appContext helpID="t_my_sixth_task"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_3_cursor.html"/>
+   <appContext helpID="t_my_seventh_task"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.html"/>
+   <appContext helpID="t_my_ninth_task"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_5_graphic%20elements.html"/>
+   <appContext helpID="t_how_to_6_layout_of_images"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_6_layout_of_images.html"/>
+   <appContext helpID="t_how_to_7_text_in_figures"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_7_text_in_figures.html"/>
+   <appContext helpID="t_how_to_8_text_associated_with_images"
+               path="Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_8_text_associated_with_images.html"/>
+   <appContext helpID="t_my_fifth_task" path="Topics/t_simplified_user_interface.html"/>
+   <appContext helpID="SUI_1_what_is_sui"
+               path="Topics/Simplified%20User%20Interface/t_SUI_1_what_is_sui.html"/>
+   <appContext helpID="SUI_1_why_to_use_it"
+               path="Topics/Simplified%20User%20Interface/t_SUI_2_why_to_use_it.html"/>
+   <appContext helpID="t_SUI_3_how_to_create_sui"
+               path="Topics/Simplified%20User%20Interface/t_SUI_3_how_to_create_sui.html"/>
+   <appContext helpID="t_think_about_privacy" path="Topics/t_think_about_privacy.html"/>
+   <appContext helpID="t_think_about_1_what_is_pii"
+               path="Topics/Think%20about%20privacy/t_think%20about_1_what_is_pii.html"/>
+   <appContext helpID="t_think_about_2_what_is_spii"
+               path="Topics/Think%20about%20privacy/t_think%20about_2_what_is_spii.html"/>
+</map>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Filip\Desktop\cwiczenie\ewa-boloz\temp\oxygen_dita_temp\Topics\Ho to create a perfect screenshot?><?workdir-uri file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/temp/oxygen_dita_temp/Topics/Ho%20to%20create%20a%20perfect%20screenshot/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="t_my_seventh_task" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="task:1;3:30" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="title:1;4:12">Editing</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="shortdesc:1;5:17"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="context:1;7:18">
+            <ul id="ul_nbl_xgz_htb" class="- topic/ul " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="ul:1;8:37">
+                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="li:1;9:21">Crop screenshots to show the relevant information. For example, don't include
+                    the full window if you just want to show a single button or menu item. Cropping
+                    helps the reader focus on the information that you want to convey in the
+                    screenshot, and it can help future-proof the screenshot if other parts of the UI
+                        change.<simpletable frame="none" relcolwidth="1* 1*" id="simpletable_gm5_3bv_ktb" class="- topic/simpletable " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="simpletable:1;14:54">
+                        <sthead class="- topic/sthead " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="sthead:1;15:33">
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="stentry:1;16:38" dita-ot:x="1" dita-ot:y="1">many extra details</stentry>
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="stentry:2;17:38" dita-ot:x="2" dita-ot:y="1">what we really needed</stentry>
+                        </sthead>
+                        <strow class="- topic/strow " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="strow:1;19:32">
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="stentry:3;20:38" dita-ot:x="1" dita-ot:y="2">
+                                <image placement="break" href="../../Images/background_noise_1.png" width="550" align="left" id="image_ey5_kbv_ktb" class="- topic/image " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="image:1;22:85" dita-ot:image-width="3016" dita-ot:image-height="1652" dita-ot:horizontal-dpi="288" dita-ot:vertical-dpi="288">
+                                    <alt class="- topic/alt " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="alt:1;23:42">what we really needed</alt>
+                                </image>
+                            </stentry>
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="stentry:4;26:38" dita-ot:x="2" dita-ot:y="2">
+                                <image placement="break" href="../../Images/background_noise_2.png" width="550" align="left" id="image_f1x_lbv_ktb" class="- topic/image " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="image:2;28:85" dita-ot:image-width="1422" dita-ot:image-height="757" dita-ot:horizontal-dpi="288" dita-ot:vertical-dpi="288">
+                                    <alt class="- topic/alt " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="alt:2;29:42">what we really needed</alt>
+                                </image>
+                            </stentry>
+                        </strow>
+                        <strow class="- topic/strow " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="strow:2;33:33"/>
+                    </simpletable><note id="note_tsd_mhz_htb" type="tip" class="- topic/note " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="note:1;34:74">It is always possible to
+                        add some graphics to draw attention to this pop-up window, but you need to
+                        think, if the other parts of the screenshot are really needed. Remember also
+                            that:<ul id="ul_cyt_mhz_htb" class="- topic/ul " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="ul:2;37:58">
+                            <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="li:2;38:33">fullscreen images are usually pretty heavy in terms of the file
+                                size, traffic and loading time.</li>
+                            <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="li:3;40:33">small elements will hardly be visible as such screenshots need to be
+                                resized to fit in the text</li>
+                            <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="li:4;42:33">fullscreen image content is more difficult to control - there's a
+                                higher possibility of accidentally leaving some PII in the
+                                picture</li>
+                        </ul></note></li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="li:5;46:21">Try to do not scale the image too much afterward. But if you must, avoid the
+                    dreaded pixelation. Try resizing your picture or screenshot in an image editing
+                    program. Keep the same ratio of width to height, and then add it back into your
+                    document or presentation.</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="li:6;50:21">If you need a big, full-size screenshot, try to resize the window, before you
+                    take it. This is especially important for mobile visitors of your documentation.
+                    It is recommend to decide upon the max width for all the images.<simpletable frame="none" relcolwidth="1* 1*" id="simpletable_vdc_ddv_ktb" class="- topic/simpletable " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="simpletable:2;53:87">
+                        <sthead class="- topic/sthead " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="sthead:2;54:33">
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="stentry:5;55:38" dita-ot:x="1" dita-ot:y="1">small, not visible elements</stentry>
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="stentry:6;56:38" dita-ot:x="2" dita-ot:y="1">resized window</stentry>
+                        </sthead>
+                        <strow class="- topic/strow " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="strow:3;58:32">
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="stentry:7;59:38" dita-ot:x="1" dita-ot:y="2">
+                                <image placement="break" href="../../Images/full_screen_1.png" width="550" align="left" id="image_wdc_ddv_ktb" class="- topic/image " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="image:3;61:85" dita-ot:image-width="3831" dita-ot:image-height="1821" dita-ot:horizontal-dpi="288" dita-ot:vertical-dpi="288">
+                                    <alt class="- topic/alt " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="alt:3;62:42">full screen1</alt>
+                                </image>
+                            </stentry>
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="stentry:8;65:38" dita-ot:x="2" dita-ot:y="2">
+                                <image placement="break" href="../../Images/full_screen_2.png" width="550" align="left" id="image_xdc_ddv_ktb" class="- topic/image " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="image:4;67:85" dita-ot:image-width="3823" dita-ot:image-height="1824" dita-ot:horizontal-dpi="288" dita-ot:vertical-dpi="288">
+                                    <alt class="- topic/alt " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="alt:4;68:42">full screen 2</alt>
+                                </image>
+                            </stentry>
+                        </strow>
+                        <strow class="- topic/strow " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="strow:4;72:33"/>
+                    </simpletable></li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="li:7;74:21">Figure out precisely what you are doing the screenshots for, and capture just
+                    the details you need. Take some time to make sure that no UI element will be
+                    left outside the frame if it is of importance. A user should understand where
+                    the element in question is located in the UI to be able to find it.<simpletable frame="none" relcolwidth="1* 1*" id="simpletable_isf_3dv_ktb" class="- topic/simpletable " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="simpletable:3;78:87">
+                        <sthead class="- topic/sthead " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="sthead:3;79:33">
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="stentry:9;80:38" dita-ot:x="1" dita-ot:y="1">impossible to understand what tab is opened </stentry>
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="stentry:10;81:38" dita-ot:x="2" dita-ot:y="1">tabs are visible</stentry>
+                        </sthead>
+                        <strow class="- topic/strow " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="strow:5;83:32">
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="stentry:11;84:38" dita-ot:x="1" dita-ot:y="2">
+                                <image placement="break" href="../../Images/screenshot_context_1.png" width="550" align="left" id="image_jsf_3dv_ktb" class="- topic/image " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="image:5;87:73" dita-ot:image-width="2147" dita-ot:image-height="468" dita-ot:horizontal-dpi="288" dita-ot:vertical-dpi="288">
+                                    <alt class="- topic/alt " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="alt:5;88:42">full screen1</alt>
+                                </image>
+                            </stentry>
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="stentry:12;91:38" dita-ot:x="2" dita-ot:y="2">
+                                <image placement="break" href="../../Images/screenshot_context_2.png" width="550" align="left" id="image_ksf_3dv_ktb" class="- topic/image " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="image:6;94:73" dita-ot:image-width="2157" dita-ot:image-height="243" dita-ot:horizontal-dpi="288" dita-ot:vertical-dpi="288">
+                                    <alt class="- topic/alt " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="alt:6;95:42">full screen 2</alt>
+                                </image>
+                            </stentry>
+                        </strow>
+                        <strow class="- topic/strow " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="strow:6;99:33"/>
+                    </simpletable></li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="li:8;101:21">Do not use effects like shadow, borders, etc. They usually look ugly, cheap, and
+                    generally don’t fit well with documentation and books. The trouble with shadow
+                    effect is they look good only on a particular background.</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="li:9;104:21">If possible, use a transparent background, because you don’t know which
+                    background will have your reader. Docs are outputted to various formats - HTML,
+                    PDF, EPUB - with various backgrounds.</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="li:10;107:21">Use a consistent style of screenshots with enhancements (like callouts, text)
+                    and drawings - same font, size, colors, design, etc.</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_4_editing.dita" xtrc="li:11;109:21">Use the same screenshot tool, app version, browser, environment, etc. across
+                    your docs and team of tech writers.</li>
+            </ul>
+        </context>
+    </taskbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:8;17:98" xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/screenshots_best_practices_map.ditamap"><link class="- topic/link " format="dita" href="../../Topics/t_How%20to%20create%20a%20perfect%20screenshot.dita" mapclass="- map/topicref " role="parent" scope="local" type="task" xtrc="topicref:4;12:81" xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/screenshots_best_practices_map.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>How to create a perfect screenshot</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool><linkpool class="- topic/linkpool " xtrc="topicref:36;76:43" xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/screenshots_best_practices_map.ditamap"><link class="- topic/link " format="dita" href="../../Topics/t_How%20to%20create%20a%20perfect%20screenshot.dita" mapclass="- map/topicref " role="friend" scope="local" type="task" xtrc="topicref:32;61:43" xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/screenshots_best_practices_map.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>How to create a perfect screenshot</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task>

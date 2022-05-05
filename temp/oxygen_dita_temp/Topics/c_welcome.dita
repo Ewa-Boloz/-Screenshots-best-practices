@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Filip\Desktop\cwiczenie\ewa-boloz\temp\oxygen_dita_temp\Topics?><?workdir-uri file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/temp/oxygen_dita_temp/Topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="my_first_topic" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/c_welcome.dita" xtrc="concept:1;5:30" specializations="@props/deliveryTarget">
+    
+    <title class="- topic/title " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/c_welcome.dita" xtrc="title:1;7:12">Welcome</title>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/c_welcome.dita" xtrc="conbody:1;8:14">
+        <p class="- topic/p " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/c_welcome.dita" xtrc="p:1;9:12">A picture is worth a thousand words. We all take pictures of our screen from time to time
+            because it is often the fastest way to show and explain something. </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/c_welcome.dita" xtrc="p:2;11:12">But, when making screenshots is part of your working process - this is a totally
+            different thing. Taking good quality pictures for documentation is not always easy. You
+            have to think about many things when making screenshots - image size, image quality,
+            information privacy, text readability… </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/c_welcome.dita" xtrc="p:3;15:12">The main idea behind this project is to show you how to create great informative
+            screenshots that will save you and your readers a lot of time and learning efforts.</p>
+        <image placement="break" href="../Images/welcome.png" width="600" align="right" id="image_hnz_sqw_ktb" class="- topic/image " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/c_welcome.dita" xtrc="image:1;18:37" dita-ot:image-width="2450" dita-ot:image-height="1523" dita-ot:horizontal-dpi="288" dita-ot:vertical-dpi="288"/>
+    </conbody>
+</concept>
