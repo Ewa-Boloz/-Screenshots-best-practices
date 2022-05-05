@@ -1,1 +1,1 @@
-# -Screenshots-best-practices
+# Screenshots-best-practices
