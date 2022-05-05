@@ -10,16 +10,15 @@
     <title class="- topic/title ">Screenshots best practices</title>
     
     <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="my_first_topic"><resourceid appid="my_first_topic" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Welcome</navtitle><?ditaot gentext?><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_first_task"><resourceid appid="t_my_first_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Terminology</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_second_task"><resourceid appid="t_my_second_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">How to create a perfect screenshot</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_third_task"><resourceid appid="t_my_third_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Size</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_fourth_task"><resourceid appid="t_my_fourth_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Format</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_sixth_task"><resourceid appid="t_my_sixth_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Cursor</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_seventh_task"><resourceid appid="t_my_seventh_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Editing</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_ninth_task"><resourceid appid="t_my_ninth_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Graphic elements on screenshots</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_how_to_6_layout_of_images"><resourceid appid="t_how_to_6_layout_of_images" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Layout of images on a page</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_how_to_7_text_in_figures"><resourceid appid="t_how_to_7_text_in_figures" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Text in figures</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_how_to_8_text_associated_with_images"><resourceid appid="t_how_to_8_text_associated_with_images" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Text associated with images</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_how_to_9_pictue_filenames"><resourceid appid="t_how_to_9_pictue_filenames" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Picture filenames</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_how_to_10_keep_originals"><resourceid appid="t_how_to_10_keep_originals" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Keep originals</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_fifth_task"><resourceid appid="t_my_fifth_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Simplified User Interface</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta><topicref class="- map/topicref " href="#unique_15" type="task"><topicmeta class="- map/topicmeta " data-topic-id="SUI_1_what_is_sui"><resourceid appid="SUI_1_what_is_sui" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">What is SUI?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="task"><topicmeta class="- map/topicmeta " data-topic-id="SUI_1_why_to_use_it"><resourceid appid="SUI_1_why_to_use_it" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Why to use it? </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_SUI_3_how_to_create_sui"><resourceid appid="t_SUI_3_how_to_create_sui" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">How to create SUI?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_first_task"><resourceid appid="t_my_first_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Terminology</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">In documentation, we recognize screenshots which are pictures of a computer screen,         or schematic drawings as various diagrams and charts. Learn which names are correct and can         be used in your instruction.</shortdesc><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_second_task"><resourceid appid="t_my_second_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">How to create a perfect screenshot</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_third_task"><resourceid appid="t_my_third_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">          Size</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_fourth_task"><resourceid appid="t_my_fourth_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">          Format</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_sixth_task"><resourceid appid="t_my_sixth_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">          Cursor</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_seventh_task"><resourceid appid="t_my_seventh_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">          Editing</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_ninth_task"><resourceid appid="t_my_ninth_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">          Graphic elements on screenshots</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_how_to_6_layout_of_images"><resourceid appid="t_how_to_6_layout_of_images" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">          Layout of images on a page</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_how_to_7_text_in_figures"><resourceid appid="t_how_to_7_text_in_figures" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">          Text in figures</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_how_to_8_text_associated_with_images"><resourceid appid="t_how_to_8_text_associated_with_images" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">          Text associated with images</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_how_to_9_pictue_filenames"><resourceid appid="t_how_to_9_pictue_filenames" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">          Picture filenames</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_how_to_10_keep_originals"><resourceid appid="t_how_to_10_keep_originals" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">          Keep originals</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_fifth_task"><resourceid appid="t_my_fifth_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Simplified User Interface</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta><topicref class="- map/topicref " href="#unique_15" type="task"><topicmeta class="- map/topicmeta " data-topic-id="SUI_1_what_is_sui"><resourceid appid="SUI_1_what_is_sui" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">          What is SUI?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="task"><topicmeta class="- map/topicmeta " data-topic-id="SUI_1_why_to_use_it"><resourceid appid="SUI_1_why_to_use_it" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">          Why to use it? </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_SUI_3_how_to_create_sui"><resourceid appid="t_SUI_3_how_to_create_sui" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">          How to create SUI?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref></topicref>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_18" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_do_you_really_need_a_screenshot"><resourceid appid="t_do_you_really_need_a_screenshot" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Do you really need a screenshot?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Decide when to use screenshots in your documentation.</shortdesc><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_19" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_think_about_privacy"><resourceid appid="t_think_about_privacy" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Think about privacy</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta><topicref class="- map/topicref " href="#unique_20" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_think_about_1_what_is_pii"><resourceid appid="t_think_about_1_what_is_pii" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">What is PII?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_think_about_2_what_is_spii"><resourceid appid="t_think_about_2_what_is_spii" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">What is SPII?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_22" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_useful_tools_free_and_paid"><resourceid appid="t_useful_tools_free_and_paid" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Useful tools (free and paid)</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Find a proper screenshot tool.</shortdesc><author class="- topic/author ">Ewa Bołoz</author></topicmeta><topicref class="- map/topicref " href="#unique_29" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_useful_tools_1_snagit"><resourceid appid="t_useful_tools_1_snagit" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_29" class="- topic/navtitle ">Paid tools</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta><topicref class="- map/topicref " href="#unique_23" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_snagit"><resourceid appid="t_snagit" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">Snagit</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_24" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_wondershare_democreator"><resourceid appid="t_wondershare_democreator" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">Screenpresso</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_25" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_3_passfab_screen_recorder"><resourceid appid="t_3_passfab_screen_recorder" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">FastStone Capture</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_30" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_useful_tools_2_wondershare_democreator"><resourceid appid="t_useful_tools_2_wondershare_democreator" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_30" class="- topic/navtitle ">Free tools</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta><topicref class="- map/topicref " href="#unique_26" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_1_snipping_tool"><resourceid appid="t_1_snipping_tool" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">Snipping Tool</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_27" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_2_jing"><resourceid appid="t_2_jing" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_27" class="- topic/navtitle ">Jing</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_28" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_3_skitch"><resourceid appid="t_3_skitch" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_28" class="- topic/navtitle ">Skitch</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref></topicref></topicref>
-    
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_19" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_think_about_privacy"><resourceid appid="t_think_about_privacy" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Think about privacy</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta><topicref class="- map/topicref " href="#unique_20" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_think_about_1_what_is_pii"><resourceid appid="t_think_about_1_what_is_pii" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">          What is PII?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_21" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_think_about_2_what_is_spii"><resourceid appid="t_think_about_2_what_is_spii" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">          What is SPII?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_22" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_useful_tools_free_and_paid"><resourceid appid="t_useful_tools_free_and_paid" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Useful tools (free and paid)</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Find a proper screenshot tool.</shortdesc><author class="- topic/author ">Ewa Bołoz</author></topicmeta><topicref class="- map/topicref " href="#unique_29" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_useful_tools_1_snagit"><resourceid appid="t_useful_tools_1_snagit" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_29" class="- topic/navtitle ">Paid tools</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta><topicref class="- map/topicref " href="#unique_23" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_snagit"><resourceid appid="t_snagit" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">          Snagit</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_24" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_wondershare_democreator"><resourceid appid="t_wondershare_democreator" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">          Screenpresso</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_25" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_3_passfab_screen_recorder"><resourceid appid="t_3_passfab_screen_recorder" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">          FastStone Capture</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_30" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_useful_tools_2_wondershare_democreator"><resourceid appid="t_useful_tools_2_wondershare_democreator" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_30" class="- topic/navtitle ">Free tools</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta><topicref class="- map/topicref " href="#unique_26" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_1_snipping_tool"><resourceid appid="t_1_snipping_tool" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">          Snipping Tool</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_27" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_2_jing"><resourceid appid="t_2_jing" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_27" class="- topic/navtitle ">          Jing</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref><topicref class="- map/topicref " href="#unique_28" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_3_skitch"><resourceid appid="t_3_skitch" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_28" class="- topic/navtitle ">          Skitch</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author ">Ewa Bołoz</author></topicmeta></topicref></topicref></topicref>
 
 </opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="my_first_topic" oid="my_first_topic" specializations="@props/deliveryTarget">
-    
+
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Welcome</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">A picture is worth a thousand words. We all take pictures of our screen from time to time
@@ -34,7 +33,9 @@
     </conbody>
 </concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="t_my_first_task" oid="t_my_first_task" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Terminology</ph></title>
-    <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
+    <shortdesc class="- topic/shortdesc ">In documentation, we recognize screenshots which are pictures of a computer screen,
+        or schematic drawings as various diagrams and charts. Learn which names are correct and can
+        be used in your instruction.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
             <p class="- topic/p ">In documentation, we recognize <b class="+ topic/ph hi-d/b ">screenshots</b> which are pictures of a computer
@@ -59,7 +60,7 @@
         </context>
     </taskbody>
 <task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="t_my_third_task" oid="t_my_third_task" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Size</ph></title>
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Size</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -73,8 +74,8 @@
             </ul>
         </context>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>How to create a perfect screenshot</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="t_my_fourth_task" oid="t_my_fourth_task" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Format</ph></title>
+</task><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="t_my_fourth_task" oid="t_my_fourth_task" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Format</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -92,8 +93,8 @@
             </ul>
         </context>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>How to create a perfect screenshot</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="t_my_sixth_task" oid="t_my_sixth_task" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Cursor</ph></title>
+</task><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="t_my_sixth_task" oid="t_my_sixth_task" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Cursor</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -103,8 +104,8 @@
                 standard shortcut, the cursor will most likely appear in the shot.</p>
         </context>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>How to create a perfect screenshot</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="t_my_seventh_task" oid="t_my_seventh_task" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Editing</ph></title>
+</task><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="t_my_seventh_task" oid="t_my_seventh_task" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Editing</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -203,8 +204,8 @@
             </ul>
         </context>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>How to create a perfect screenshot</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="t_my_ninth_task" oid="t_my_ninth_task" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Graphic elements on screenshots</ph></title>
+</task><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="t_my_ninth_task" oid="t_my_ninth_task" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Graphic elements on screenshots</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -238,8 +239,8 @@
             </ul>
         </context>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>How to create a perfect screenshot</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="t_how_to_6_layout_of_images" oid="t_how_to_6_layout_of_images" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Layout of images on a page</ph></title>
+</task><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="t_how_to_6_layout_of_images" oid="t_how_to_6_layout_of_images" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Layout of images on a page</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -259,8 +260,8 @@
             </ul>
         </context>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>How to create a perfect screenshot</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="t_how_to_7_text_in_figures" oid="t_how_to_7_text_in_figures" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Text in figures</ph></title>
+</task><task class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="t_how_to_7_text_in_figures" oid="t_how_to_7_text_in_figures" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Text in figures</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -282,8 +283,8 @@
             </ul>
         </context>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>How to create a perfect screenshot</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="t_how_to_8_text_associated_with_images" oid="t_how_to_8_text_associated_with_images" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Text associated with images</ph></title>
+</task><task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="t_how_to_8_text_associated_with_images" oid="t_how_to_8_text_associated_with_images" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Text associated with images</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -345,8 +346,8 @@
                 </ul></p>
         </context>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>How to create a perfect screenshot</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="t_how_to_9_pictue_filenames" oid="t_how_to_9_pictue_filenames" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Picture filenames</ph></title>
+</task><task class="- topic/topic task/task " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="t_how_to_9_pictue_filenames" oid="t_how_to_9_pictue_filenames" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Picture filenames</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -374,7 +375,7 @@
         </context>
     </taskbody>
 </task><task class="- topic/topic task/task " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="t_how_to_10_keep_originals" oid="t_how_to_10_keep_originals" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Keep originals</ph></title>
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Keep originals</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -405,7 +406,7 @@
         </context>
     </taskbody>
 <task class="- topic/topic task/task " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="SUI_1_what_is_sui" oid="SUI_1_what_is_sui" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is SUI?</ph></title>
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          What is SUI?</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -436,8 +437,8 @@
                 the point quickly and to avoid distractions.</p>
         </context>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_14" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Simplified User Interface</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="SUI_1_why_to_use_it" oid="SUI_1_why_to_use_it" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Why to use it? </ph></title>
+</task><task class="- topic/topic task/task " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="SUI_1_why_to_use_it" oid="SUI_1_why_to_use_it" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Why to use it? </ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context "><p class="- topic/p "/><sectiondiv class="- topic/sectiondiv "><b class="+ topic/ph hi-d/b ">Better user experience</b><p class="- topic/p ">When you reduce the amount of
@@ -471,8 +472,8 @@
                 adjustment. Additional information or instructions can be conveyed through the sub-
                 or figure text.</p><p class="- topic/p "><b class="+ topic/ph hi-d/b ">polish version</b><image align="left" class="- topic/image " href="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/sui_localization_2.png" id="unique_16_Connect_42_image_ymh_2bx_ktb" nd:nd-id="image_ymh_2bx_ktb" placement="break" width="700"/></p><p class="- topic/p "><b class="+ topic/ph hi-d/b ">english version</b><image align="left" class="- topic/image " href="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/sui_localization_1.png" id="unique_16_Connect_42_image_htc_cbx_ktb" nd:nd-id="image_htc_cbx_ktb" placement="break" width="700"/></p><p class="- topic/p "><b class="+ topic/ph hi-d/b ">SUI version</b></p><image align="left" class="- topic/image " href="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/sui_localization_3.png" id="unique_16_Connect_42_image_gcb_fnv_ktb" nd:nd-id="image_gcb_fnv_ktb" placement="break" width="700"/></context>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_14" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Simplified User Interface</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="t_SUI_3_how_to_create_sui" oid="t_SUI_3_how_to_create_sui" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to create SUI?</ph></title>
+</task><task class="- topic/topic task/task " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="t_SUI_3_how_to_create_sui" oid="t_SUI_3_how_to_create_sui" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          How to create SUI?</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -495,22 +496,22 @@
                     tips to reduce the complexity of the image and focus attention on the important
                     parts.</cmd>
                 <info class="- topic/itemgroup task/info ">
-                    <note class="- topic/note " id="unique_17_Connect_42_note_usf_2n5_ktb" nd:nd-id="note_usf_2n5_ktb" type="tip">Use the color palette which works with your
-                        interface.</note>
+                    <note class="- topic/note " id="unique_17_Connect_42_note_usf_2n5_ktb" nd:nd-id="note_usf_2n5_ktb" type="tip">Use the color palette which works with
+                        your interface.</note>
                 </info>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Save your file as a .png to be used in your documentation.</cmd>
                 <info class="- topic/itemgroup task/info ">
-                    <note class="- topic/note " id="unique_17_Connect_42_note_sj1_1n5_ktb" nd:nd-id="note_sj1_1n5_ktb" type="tip">It is also recommended to save your final image as a
-                        project file type. It allows you to reopen the project to edit and adjust
-                        the image later on. This makes updating your image easy so you won’t need to
-                        recreate your SUI graphic every time.</note>
+                    <note class="- topic/note " id="unique_17_Connect_42_note_sj1_1n5_ktb" nd:nd-id="note_sj1_1n5_ktb" type="tip">It is also recommended to save your final
+                        image as a project file type. It allows you to reopen the project to edit
+                        and adjust the image later on. This makes updating your image easy so you
+                        won’t need to recreate your SUI graphic every time.</note>
                 </info>
             </step>
         </steps>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_14" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Simplified User Interface</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task></task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="t_do_you_really_need_a_screenshot" oid="t_do_you_really_need_a_screenshot" specializations="@props/deliveryTarget">
+</task></task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="t_do_you_really_need_a_screenshot" oid="t_do_you_really_need_a_screenshot" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Do you really need a screenshot?</ph></title>
     <shortdesc class="- topic/shortdesc ">Decide when to use screenshots in your documentation.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
@@ -609,68 +610,61 @@
             <p class="- topic/p ">If you're exporting an image to a format that can include information on separate
                 layers (for example, PDF or TIFF), flatten the image on export.</p>
             <p class="- topic/p "/>
-            <image align="right" class="- topic/image " href="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/Different-types-of-PII-or-personally-identifiable-information.png" id="unique_19_Connect_42_image_mrm_knv_ktb" nd:nd-id="image_mrm_knv_ktb" placement="break" width="800"/>
+            <image align="center" class="- topic/image " href="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/Different-types-of-PII-or-personally-identifiable-information.png" id="unique_19_Connect_42_image_mrm_knv_ktb" nd:nd-id="image_mrm_knv_ktb" placement="break" width="600"/>
         </context>
     </taskbody>
 <task class="- topic/topic task/task " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="t_think_about_1_what_is_pii" oid="t_think_about_1_what_is_pii" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is PII?</ph></title>
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          What is PII?</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
-            
-                
-                <p class="- topic/p ">Personally Identifiable Information (PII) is any representation of information
-                    that permits the identity of an individual to whom the information applies to be
-                    reasonably inferred by either direct or indirect means.</p>
-                <p class="- topic/p "><b class="+ topic/ph hi-d/b ">The following basic guidelines apply to classifying data as PII:</b><ul class="- topic/ul " id="unique_20_Connect_42_ul_djr_1k5_ktb" nd:nd-id="ul_djr_1k5_ktb">
-                        <li class="- topic/li ">An individual's name, legal customer name, email address, mailing
-                            address, or telephone number, either alone or in combination</li>
-                        <li class="- topic/li ">Any information that is combined with PII or can be linked to PII with a
-                            reasonable level of confidence based on information available </li>
-                        <li class="- topic/li ">If there is any doubt about whether the information is PII, you should
-                            treat the data as PII until the data is re-classified by your
-                            company</li>
-                        <li class="- topic/li ">IP addresses, unique cookie or device ID and unique account identifiers,
-                            and any information your company classifies as personal identifiable
-                            data</li>
-                    </ul></p>
-            
+            <p class="- topic/p ">Personally Identifiable Information (PII) is any representation of information that
+                permits the identity of an individual to whom the information applies to be
+                reasonably inferred by either direct or indirect means.</p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">The following basic guidelines apply to classifying data as PII:</b><ul class="- topic/ul " id="unique_20_Connect_42_ul_djr_1k5_ktb" nd:nd-id="ul_djr_1k5_ktb">
+                    <li class="- topic/li ">An individual's name, legal customer name, email address, mailing address,
+                        or telephone number, either alone or in combination</li>
+                    <li class="- topic/li ">Any information that is combined with PII or can be linked to PII with a
+                        reasonable level of confidence based on information available </li>
+                    <li class="- topic/li ">If there is any doubt about whether the information is PII, you should treat
+                        the data as PII until the data is re-classified by your company</li>
+                    <li class="- topic/li ">IP addresses, unique cookie or device ID and unique account identifiers, and
+                        any information your company classifies as personal identifiable data</li>
+                </ul></p>
         </context>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_19" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Think about privacy</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task><task class="- topic/topic task/task " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="t_think_about_2_what_is_spii" oid="t_think_about_2_what_is_spii" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is SPII?</ph></title>
+</task><task class="- topic/topic task/task " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="t_think_about_2_what_is_spii" oid="t_think_about_2_what_is_spii" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          What is SPII?</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
-            
-                <p class="- topic/p ">It is Sensitive Personally Identifiable Information (SPII): A subset of PII that
-                    is subject to heightened legal requirements or presents a significant risk or
-                    harm to an individual if it is compromised or misused. </p>
-                <p class="- topic/p ">Sometimes even anonymizing SPII may not eliminate this risk of harm. </p>
-                <p class="- topic/p "><b class="+ topic/ph hi-d/b ">The following basic guidelines apply to classifying data as SPII:</b></p>
-                <ul class="- topic/ul " id="unique_21_Connect_42_ul_rv1_hk5_ktb" nd:nd-id="ul_rv1_hk5_ktb">
-                    <li class="- topic/li ">Account Credentials: non-public information used to log in, authenticate, or
-                        authorize activity as a particular individual</li>
-                    <li class="- topic/li ">Cardholder Data (CHD)</li>
-                    <li class="- topic/li ">Healthcare Information</li>
-                    <li class="- topic/li ">Bank account number</li>
-                    <li class="- topic/li ">Credit card number (the first six (6) digits of the card number, if stored
-                        or processed in isolation, are not considered SPII)</li>
-                    <li class="- topic/li ">Passwords, passphrases, and PINs</li>
-                    <li class="- topic/li ">Cryptographic keys or authentication code</li>
-                    <li class="- topic/li ">Data that would permit account access or recovery (e.g., user-selected
-                        secret questions and answers, account creation date)</li>
-                    <li class="- topic/li ">Biometrics or DNA data</li>
-                    <li class="- topic/li ">Session cookies (when used for authentication)</li>
-                    <li class="- topic/li ">Government Identification Numbers, such as SSN</li>
-                    <li class="- topic/li ">Financial account data, such as account numbers</li>
-                    <li class="- topic/li ">Sensitive Background Information, such as ethnicity, political affiliation,
-                        sexual orientation, or religious affiliation, etc.</li>
-                </ul>
-            
+            <p class="- topic/p ">It is Sensitive Personally Identifiable Information (SPII): A subset of PII that is
+                subject to heightened legal requirements or presents a significant risk or harm to
+                an individual if it is compromised or misused. </p>
+            <p class="- topic/p ">Sometimes even anonymizing SPII may not eliminate this risk of harm. </p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">The following basic guidelines apply to classifying data as SPII:</b></p>
+            <ul class="- topic/ul " id="unique_21_Connect_42_ul_rv1_hk5_ktb" nd:nd-id="ul_rv1_hk5_ktb">
+                <li class="- topic/li ">Account Credentials: non-public information used to log in, authenticate, or
+                    authorize activity as a particular individual</li>
+                <li class="- topic/li ">Cardholder Data (CHD)</li>
+                <li class="- topic/li ">Healthcare Information</li>
+                <li class="- topic/li ">Bank account number</li>
+                <li class="- topic/li ">Credit card number (the first six (6) digits of the card number, if stored or
+                    processed in isolation, are not considered SPII)</li>
+                <li class="- topic/li ">Passwords, passphrases, and PINs</li>
+                <li class="- topic/li ">Cryptographic keys or authentication code</li>
+                <li class="- topic/li ">Data that would permit account access or recovery (e.g., user-selected secret
+                    questions and answers, account creation date)</li>
+                <li class="- topic/li ">Biometrics or DNA data</li>
+                <li class="- topic/li ">Session cookies (when used for authentication)</li>
+                <li class="- topic/li ">Government Identification Numbers, such as SSN</li>
+                <li class="- topic/li ">Financial account data, such as account numbers</li>
+                <li class="- topic/li ">Sensitive Background Information, such as ethnicity, political affiliation,
+                    sexual orientation, or religious affiliation, etc.</li>
+            </ul>
         </context>
     </taskbody>
-<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_19" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Think about privacy</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task></task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="t_useful_tools_free_and_paid" oid="t_useful_tools_free_and_paid" specializations="@props/deliveryTarget">
+</task></task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="t_useful_tools_free_and_paid" oid="t_useful_tools_free_and_paid" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Useful tools (free and paid)</ph></title>
     <shortdesc class="- topic/shortdesc ">Find a proper screenshot tool.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
@@ -704,7 +698,7 @@
         <context class="- topic/section task/context "/>
     </taskbody>
 <task class="- topic/topic task/task " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="t_snagit" oid="t_snagit" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Snagit</ph></title>
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Snagit</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -729,7 +723,7 @@
         </context>
     </taskbody>
 </task><task class="- topic/topic task/task " id="unique_24" topicrefclass="- map/topicref " nd:nd-id="t_wondershare_democreator" oid="t_wondershare_democreator" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "><b class="+ topic/ph hi-d/b ">Screenpresso</b></ph></title>
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Screenpresso</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
@@ -759,7 +753,7 @@
         </context>
     </taskbody>
 </task><task class="- topic/topic task/task " id="unique_25" topicrefclass="- map/topicref " nd:nd-id="t_3_passfab_screen_recorder" oid="t_3_passfab_screen_recorder" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "><b class="+ topic/ph hi-d/b ">FastStone Capture</b></ph></title>
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          FastStone Capture</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context " id="unique_25_Connect_42_context_kcd_xqb_ltb" nd:nd-id="context_kcd_xqb_ltb">
@@ -791,7 +785,7 @@
         <context class="- topic/section task/context "/>
     </taskbody>
 <task class="- topic/topic task/task " id="unique_26" topicrefclass="- map/topicref " nd:nd-id="t_1_snipping_tool" oid="t_1_snipping_tool" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Snipping Tool</ph></title>
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Snipping Tool</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context " id="unique_26_Connect_42_context_vns_frb_ltb" nd:nd-id="context_vns_frb_ltb">
@@ -817,7 +811,7 @@
         </context>
     </taskbody>
 </task><task class="- topic/topic task/task " id="unique_27" topicrefclass="- map/topicref " nd:nd-id="t_2_jing" oid="t_2_jing" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Jing</ph></title>
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Jing</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context " id="unique_27_Connect_42_context_vns_frb_ltb" nd:nd-id="context_vns_frb_ltb">
@@ -840,7 +834,7 @@
         </context>
     </taskbody>
 </task><task class="- topic/topic task/task " id="unique_28" topicrefclass="- map/topicref " nd:nd-id="t_3_skitch" oid="t_3_skitch" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Skitch</ph></title>
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">          Skitch</ph></title>
     <shortdesc class="- topic/shortdesc "/><prolog class="- topic/prolog "><author class="- topic/author ">Ewa Bołoz</author></prolog>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context " id="unique_28_Connect_42_context_vns_frb_ltb" nd:nd-id="context_vns_frb_ltb">

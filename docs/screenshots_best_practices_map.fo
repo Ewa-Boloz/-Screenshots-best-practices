@@ -41,7 +41,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4">Size</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4"><fo:page-number-citation ref-id="unique_4"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4">
+                                            Size</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_4"><fo:page-number-citation ref-id="unique_4"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
                                     </fo:block>
@@ -49,7 +50,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_5"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_5">Format</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_5"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_5"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_5"><fo:page-number-citation ref-id="unique_5"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_5"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_5">
+                                            Format</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_5"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_5"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_5"><fo:page-number-citation ref-id="unique_5"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
                                     </fo:block>
@@ -57,7 +59,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_6"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_6">Cursor</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_6"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_6"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_6"><fo:page-number-citation ref-id="unique_6"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_6"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_6">
+                                            Cursor</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_6"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_6"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_6"><fo:page-number-citation ref-id="unique_6"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
                                     </fo:block>
@@ -65,7 +68,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_7"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_7">Editing</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_7"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_7"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_7"><fo:page-number-citation ref-id="unique_7"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_7"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_7">
+                                            Editing</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_7"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_7"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_7"><fo:page-number-citation ref-id="unique_7"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
                                     </fo:block>
@@ -73,8 +77,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_8"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_8">Graphic
-                                            elements on
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_8"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_8">
+                                            Graphic elements on
                                             screenshots</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_8"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_8"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_8"><fo:page-number-citation ref-id="unique_8"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
@@ -83,8 +87,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9">Layout
-                                            of images on a
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9">
+                                            Layout of images on a
                                             page</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_9"><fo:page-number-citation ref-id="unique_9"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
@@ -93,8 +97,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_10"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_10">Text
-                                            in
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_10"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_10">
+                                            Text in
                                             figures</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_10"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_10"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_10"><fo:page-number-citation ref-id="unique_10"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
@@ -103,8 +107,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_11"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_11">Text
-                                            associated with
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_11"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_11">
+                                            Text associated with
                                             images</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_11"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_11"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_11"><fo:page-number-citation ref-id="unique_11"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
@@ -113,7 +117,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_12"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_12">Picture
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_12"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_12">
+                                            Picture
                                             filenames</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_12"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_12"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_12"><fo:page-number-citation ref-id="unique_12"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
@@ -122,7 +127,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_13"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_13">Keep
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_13"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_13">
+                                            Keep
                                             originals</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_13"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_13"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_13"><fo:page-number-citation ref-id="unique_13"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
@@ -141,8 +147,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_15"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_15">What
-                                            is
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_15"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_15">
+                                            What is
                                             SUI?</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_15"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_15"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_15"><fo:page-number-citation ref-id="unique_15"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
@@ -151,8 +157,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_16"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_16">Why
-                                            to use it?
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_16"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_16">
+                                            Why to use it?
                                             </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_16"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_16"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_16"><fo:page-number-citation ref-id="unique_16"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
@@ -161,8 +167,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_17"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_17">How
-                                            to create
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_17"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_17">
+                                            How to create
                                             SUI?</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_17"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_17"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_17"><fo:page-number-citation ref-id="unique_17"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
@@ -191,8 +197,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_20"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_20">What
-                                            is
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_20"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_20">
+                                            What is
                                             PII?</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_20"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_20"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_20"><fo:page-number-citation ref-id="unique_20"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
@@ -201,8 +207,8 @@
                                 <fo:block-container font-weight="normal" space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                     <fo:block>
                                         
-                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_21"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_21">What
-                                            is
+                                        <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_21"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_21">
+                                            What is
                                             SPII?</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_21"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_21"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_21"><fo:page-number-citation ref-id="unique_21"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                         
                                         
@@ -229,7 +235,8 @@
                                     <fo:block-container space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                         <fo:block>
                                             
-                                            <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_23"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_23">Snagit</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_23"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_23"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_23"><fo:page-number-citation ref-id="unique_23"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
+                                            <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_23"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_23">
+                                                Snagit</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_23"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_23"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_23"><fo:page-number-citation ref-id="unique_23"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                             
                                             
                                         </fo:block>
@@ -237,7 +244,8 @@
                                     <fo:block-container space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                         <fo:block>
                                             
-                                            <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_24"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_24">Screenpresso</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_24"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_24"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_24"><fo:page-number-citation ref-id="unique_24"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
+                                            <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_24"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_24">
+                                                Screenpresso</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_24"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_24"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_24"><fo:page-number-citation ref-id="unique_24"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                             
                                             
                                         </fo:block>
@@ -245,7 +253,8 @@
                                     <fo:block-container space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                         <fo:block>
                                             
-                                            <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_25"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_25">FastStone
+                                            <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_25"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_25">
+                                                FastStone
                                                 Capture</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_25"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_25"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_25"><fo:page-number-citation ref-id="unique_25"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                             
                                             
@@ -263,7 +272,8 @@
                                     <fo:block-container space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                         <fo:block>
                                             
-                                            <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_26"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_26">Snipping
+                                            <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_26"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_26">
+                                                Snipping
                                                 Tool</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_26"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_26"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_26"><fo:page-number-citation ref-id="unique_26"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                             
                                             
@@ -272,7 +282,8 @@
                                     <fo:block-container space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                         <fo:block>
                                             
-                                            <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_27"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_27">Jing</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_27"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_27"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_27"><fo:page-number-citation ref-id="unique_27"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
+                                            <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_27"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_27">
+                                                Jing</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_27"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_27"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_27"><fo:page-number-citation ref-id="unique_27"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                             
                                             
                                         </fo:block>
@@ -280,7 +291,8 @@
                                     <fo:block-container space-after="0.5em" margin-left="2em" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                         <fo:block>
                                             
-                                            <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_28"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_28">Skitch</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_28"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_28"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_28"><fo:page-number-citation ref-id="unique_28"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
+                                            <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_28"><fo:inline/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_28">
+                                                Skitch</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_28"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_28"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_28"><fo:page-number-citation ref-id="unique_28"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
                                             
                                             
                                         </fo:block>
@@ -313,7 +325,10 @@
                             <fo:block-container font-size="2em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="0" page-break-after="avoid" id="ariaid-title2"><fo:block end-indent="0" start-indent="0" role="H1"><fo:marker marker-class-name="chaptertitle-no-prefix"><fo:inline/> 2 - <!--content(text)--><fo:inline>Terminology</fo:inline></fo:marker><fo:marker marker-class-name="chaptertitle"><fo:inline/> | 2 - <!--content(text)--><fo:inline>Terminology</fo:inline></fo:marker><fo:inline>Chapter 2. </fo:inline><fo:inline>Terminology</fo:inline></fo:block></fo:block-container>
                             
                             <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
-                                <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
+                                <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">In documentation, we recognize
+                                    screenshots which are pictures of a computer screen, or
+                                    schematic drawings as various diagrams and charts. Learn which
+                                    names are correct and can be used in your instruction.</fo:block></fo:block-container>
                                 <fo:block-container space-after="1em" space-before="1em"><fo:block end-indent="0" start-indent="0" role="Sect">
                                     <fo:block-container space-after="0.5em" margin-left="0" margin-right="0" space-before="1em"><fo:block end-indent="0" start-indent="0">In documentation,
                                         we recognize <fo:inline font-weight="bold">screenshots</fo:inline> which are pictures of a computer
@@ -347,7 +362,7 @@
                                 </fo:block></fo:block-container>
                             </fo:block></fo:block-container>
                             <fo:block role="Sect" id="unique_4" chfox:nd-id="t_my_third_task">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title4"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>Size</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title4"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> Size</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -369,21 +384,9 @@
                                         </fo:list-block>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
-                                <fo:block>
-                                    <fo:block-container background-color="rgb(58 , 68 , 74)" border-bottom-color="rgb(41 , 49 , 54)" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(41 , 49 , 54)" border-left-style="solid" border-left-width="1px" border-right-color="rgb(41 , 49 , 54)" border-right-style="solid" border-right-width="1px" border-top-color="rgb(41 , 49 , 54)" border-top-style="solid" border-top-width="1px" color="white" font-size="0.91em" space-after="0" margin-left="0" margin-right="0" space-before="1em" padding-bottom="0" padding-left="1em" padding-right="1em" padding-top="0"><fo:block end-indent="0" start-indent="0">
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block color="rgb(251 , 251 , 251)" font-weight="bold" page-break-after="avoid">Related information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">How to
-                                                  create a perfect
-                                                  screenshot</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:inline color="rgb(251 , 251 , 251)" font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                    </fo:block></fo:block-container>
-                                </fo:block>
                             </fo:block>
                             <fo:block role="Sect" id="unique_5" chfox:nd-id="t_my_fourth_task">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title5"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>Format</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title5"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> Format</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -408,21 +411,9 @@
                                         </fo:list-block>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
-                                <fo:block>
-                                    <fo:block-container background-color="rgb(58 , 68 , 74)" border-bottom-color="rgb(41 , 49 , 54)" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(41 , 49 , 54)" border-left-style="solid" border-left-width="1px" border-right-color="rgb(41 , 49 , 54)" border-right-style="solid" border-right-width="1px" border-top-color="rgb(41 , 49 , 54)" border-top-style="solid" border-top-width="1px" color="white" font-size="0.91em" space-after="0" margin-left="0" margin-right="0" space-before="1em" padding-bottom="0" padding-left="1em" padding-right="1em" padding-top="0"><fo:block end-indent="0" start-indent="0">
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block color="rgb(251 , 251 , 251)" font-weight="bold" page-break-after="avoid">Related information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">How to
-                                                  create a perfect
-                                                  screenshot</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:inline color="rgb(251 , 251 , 251)" font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                    </fo:block></fo:block-container>
-                                </fo:block>
                             </fo:block>
                             <fo:block role="Sect" id="unique_6" chfox:nd-id="t_my_sixth_task">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title6"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>Cursor</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title6"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> Cursor</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -436,21 +427,9 @@
                                             most likely appear in the shot.</fo:block></fo:block-container>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
-                                <fo:block>
-                                    <fo:block-container background-color="rgb(58 , 68 , 74)" border-bottom-color="rgb(41 , 49 , 54)" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(41 , 49 , 54)" border-left-style="solid" border-left-width="1px" border-right-color="rgb(41 , 49 , 54)" border-right-style="solid" border-right-width="1px" border-top-color="rgb(41 , 49 , 54)" border-top-style="solid" border-top-width="1px" color="white" font-size="0.91em" space-after="0" margin-left="0" margin-right="0" space-before="1em" padding-bottom="0" padding-left="1em" padding-right="1em" padding-top="0"><fo:block end-indent="0" start-indent="0">
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block color="rgb(251 , 251 , 251)" font-weight="bold" page-break-after="avoid">Related information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">How to
-                                                  create a perfect
-                                                  screenshot</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:inline color="rgb(251 , 251 , 251)" font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                    </fo:block></fo:block-container>
-                                </fo:block>
                             </fo:block>
                             <fo:block role="Sect" id="unique_7" chfox:nd-id="t_my_seventh_task">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title7"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>Editing</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title7"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> Editing</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -582,21 +561,9 @@
                                         </fo:list-block>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
-                                <fo:block>
-                                    <fo:block-container background-color="rgb(58 , 68 , 74)" border-bottom-color="rgb(41 , 49 , 54)" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(41 , 49 , 54)" border-left-style="solid" border-left-width="1px" border-right-color="rgb(41 , 49 , 54)" border-right-style="solid" border-right-width="1px" border-top-color="rgb(41 , 49 , 54)" border-top-style="solid" border-top-width="1px" color="white" font-size="0.91em" space-after="0" margin-left="0" margin-right="0" space-before="1em" padding-bottom="0" padding-left="1em" padding-right="1em" padding-top="0"><fo:block end-indent="0" start-indent="0">
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block color="rgb(251 , 251 , 251)" font-weight="bold" page-break-after="avoid">Related information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">How to
-                                                  create a perfect
-                                                  screenshot</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:inline color="rgb(251 , 251 , 251)" font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                    </fo:block></fo:block-container>
-                                </fo:block>
                             </fo:block>
                             <fo:block role="Sect" id="unique_8" chfox:nd-id="t_my_ninth_task">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title8"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>Graphic elements on
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title8"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> Graphic elements on
                                     screenshots</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
@@ -648,21 +615,9 @@
                                         </fo:list-block>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
-                                <fo:block>
-                                    <fo:block-container background-color="rgb(58 , 68 , 74)" border-bottom-color="rgb(41 , 49 , 54)" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(41 , 49 , 54)" border-left-style="solid" border-left-width="1px" border-right-color="rgb(41 , 49 , 54)" border-right-style="solid" border-right-width="1px" border-top-color="rgb(41 , 49 , 54)" border-top-style="solid" border-top-width="1px" color="white" font-size="0.91em" space-after="0" margin-left="0" margin-right="0" space-before="1em" padding-bottom="0" padding-left="1em" padding-right="1em" padding-top="0"><fo:block end-indent="0" start-indent="0">
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block color="rgb(251 , 251 , 251)" font-weight="bold" page-break-after="avoid">Related information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">How to
-                                                  create a perfect
-                                                  screenshot</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:inline color="rgb(251 , 251 , 251)" font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                    </fo:block></fo:block-container>
-                                </fo:block>
                             </fo:block>
                             <fo:block role="Sect" id="unique_9" chfox:nd-id="t_how_to_6_layout_of_images">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title9"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>Layout of images on a page</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title9"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> Layout of images on a page</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -693,21 +648,9 @@
                                         </fo:list-block>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
-                                <fo:block>
-                                    <fo:block-container background-color="rgb(58 , 68 , 74)" border-bottom-color="rgb(41 , 49 , 54)" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(41 , 49 , 54)" border-left-style="solid" border-left-width="1px" border-right-color="rgb(41 , 49 , 54)" border-right-style="solid" border-right-width="1px" border-top-color="rgb(41 , 49 , 54)" border-top-style="solid" border-top-width="1px" color="white" font-size="0.91em" space-after="0" margin-left="0" margin-right="0" space-before="1em" padding-bottom="0" padding-left="1em" padding-right="1em" padding-top="0"><fo:block end-indent="0" start-indent="0">
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block color="rgb(251 , 251 , 251)" font-weight="bold" page-break-after="avoid">Related information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">How to
-                                                  create a perfect
-                                                  screenshot</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:inline color="rgb(251 , 251 , 251)" font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                    </fo:block></fo:block-container>
-                                </fo:block>
                             </fo:block>
                             <fo:block role="Sect" id="unique_10" chfox:nd-id="t_how_to_7_text_in_figures">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title10"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>Text in figures</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title10"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> Text in figures</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -744,21 +687,10 @@
                                         </fo:list-block>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
-                                <fo:block>
-                                    <fo:block-container background-color="rgb(58 , 68 , 74)" border-bottom-color="rgb(41 , 49 , 54)" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(41 , 49 , 54)" border-left-style="solid" border-left-width="1px" border-right-color="rgb(41 , 49 , 54)" border-right-style="solid" border-right-width="1px" border-top-color="rgb(41 , 49 , 54)" border-top-style="solid" border-top-width="1px" color="white" font-size="0.91em" space-after="0" margin-left="0" margin-right="0" space-before="1em" padding-bottom="0" padding-left="1em" padding-right="1em" padding-top="0"><fo:block end-indent="0" start-indent="0">
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block color="rgb(251 , 251 , 251)" font-weight="bold" page-break-after="avoid">Related information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">How to
-                                                  create a perfect
-                                                  screenshot</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:inline color="rgb(251 , 251 , 251)" font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                    </fo:block></fo:block-container>
-                                </fo:block>
                             </fo:block>
                             <fo:block role="Sect" id="unique_11" chfox:nd-id="t_how_to_8_text_associated_with_images">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title11"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>Text associated with images</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title11"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> Text associated with
+                                    images</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -850,21 +782,9 @@
                                             </fo:list-block></fo:block></fo:block-container>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
-                                <fo:block>
-                                    <fo:block-container background-color="rgb(58 , 68 , 74)" border-bottom-color="rgb(41 , 49 , 54)" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(41 , 49 , 54)" border-left-style="solid" border-left-width="1px" border-right-color="rgb(41 , 49 , 54)" border-right-style="solid" border-right-width="1px" border-top-color="rgb(41 , 49 , 54)" border-top-style="solid" border-top-width="1px" color="white" font-size="0.91em" space-after="0" margin-left="0" margin-right="0" space-before="1em" padding-bottom="0" padding-left="1em" padding-right="1em" padding-top="0"><fo:block end-indent="0" start-indent="0">
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block color="rgb(251 , 251 , 251)" font-weight="bold" page-break-after="avoid">Related information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">How to
-                                                  create a perfect
-                                                  screenshot</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:inline color="rgb(251 , 251 , 251)" font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                    </fo:block></fo:block-container>
-                                </fo:block>
                             </fo:block>
                             <fo:block role="Sect" id="unique_12" chfox:nd-id="t_how_to_9_pictue_filenames">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title12"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>Picture filenames</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title12"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> Picture filenames</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -898,7 +818,7 @@
                                 </fo:block></fo:block-container>
                             </fo:block>
                             <fo:block role="Sect" id="unique_13" chfox:nd-id="t_how_to_10_keep_originals">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title13"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>Keep originals</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title13"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> Keep originals</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -940,7 +860,7 @@
                                 </fo:block></fo:block-container>
                             </fo:block></fo:block-container>
                             <fo:block role="Sect" id="unique_15" chfox:nd-id="SUI_1_what_is_sui">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title15"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>What is SUI?</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title15"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> What is SUI?</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -981,20 +901,9 @@
                                             distractions.</fo:block></fo:block-container>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
-                                <fo:block>
-                                    <fo:block-container background-color="rgb(58 , 68 , 74)" border-bottom-color="rgb(41 , 49 , 54)" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(41 , 49 , 54)" border-left-style="solid" border-left-width="1px" border-right-color="rgb(41 , 49 , 54)" border-right-style="solid" border-right-width="1px" border-top-color="rgb(41 , 49 , 54)" border-top-style="solid" border-top-width="1px" color="white" font-size="0.91em" space-after="0" margin-left="0" margin-right="0" space-before="1em" padding-bottom="0" padding-left="1em" padding-right="1em" padding-top="0"><fo:block end-indent="0" start-indent="0">
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block color="rgb(251 , 251 , 251)" font-weight="bold" page-break-after="avoid">Related information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14">Simplified User
-                                                  Interface</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14"><fo:inline color="rgb(251 , 251 , 251)" font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14"><fo:page-number-citation ref-id="unique_14"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                    </fo:block></fo:block-container>
-                                </fo:block>
                             </fo:block>
                             <fo:block role="Sect" id="unique_16" chfox:nd-id="SUI_1_why_to_use_it">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title16"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>Why to use it? </fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title16"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> Why to use it? </fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -1051,20 +960,9 @@
                                             <fo:block-container space-after="1em" max-height="100%" max-width="100%" width="700px" id="unique_16_Connect_42_image_gcb_fnv_ktb" chfox:nd-id="image_gcb_fnv_ktb"><fo:block end-indent="0" start-indent="0"><fo:inline><fo:external-graphic src="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/sui_localization_3.png" max-width="100%" max-height="100%" scaling="uniform" width="700px" content-width="scale-to-fit"/></fo:inline></fo:block></fo:block-container>
                                         </fo:block></fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
-                                <fo:block>
-                                    <fo:block-container background-color="rgb(58 , 68 , 74)" border-bottom-color="rgb(41 , 49 , 54)" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(41 , 49 , 54)" border-left-style="solid" border-left-width="1px" border-right-color="rgb(41 , 49 , 54)" border-right-style="solid" border-right-width="1px" border-top-color="rgb(41 , 49 , 54)" border-top-style="solid" border-top-width="1px" color="white" font-size="0.91em" space-after="0" margin-left="0" margin-right="0" space-before="1em" padding-bottom="0" padding-left="1em" padding-right="1em" padding-top="0"><fo:block end-indent="0" start-indent="0">
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block color="rgb(251 , 251 , 251)" font-weight="bold" page-break-after="avoid">Related information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14">Simplified User
-                                                  Interface</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14"><fo:inline color="rgb(251 , 251 , 251)" font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14"><fo:page-number-citation ref-id="unique_14"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                    </fo:block></fo:block-container>
-                                </fo:block>
                             </fo:block>
                             <fo:block role="Sect" id="unique_17" chfox:nd-id="t_SUI_3_how_to_create_sui">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title17"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>How to create SUI?</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title17"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> How to create SUI?</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -1117,17 +1015,6 @@
                                         </fo:list-block>
                                     </fo:block>
                                 </fo:block></fo:block-container>
-                                <fo:block>
-                                    <fo:block-container background-color="rgb(58 , 68 , 74)" border-bottom-color="rgb(41 , 49 , 54)" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(41 , 49 , 54)" border-left-style="solid" border-left-width="1px" border-right-color="rgb(41 , 49 , 54)" border-right-style="solid" border-right-width="1px" border-top-color="rgb(41 , 49 , 54)" border-top-style="solid" border-top-width="1px" color="white" font-size="0.91em" space-after="0" margin-left="0" margin-right="0" space-before="1em" padding-bottom="0" padding-left="1em" padding-right="1em" padding-top="0"><fo:block end-indent="0" start-indent="0">
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block color="rgb(251 , 251 , 251)" font-weight="bold" page-break-after="avoid">Related information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14">Simplified User
-                                                  Interface</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14"><fo:inline color="rgb(251 , 251 , 251)" font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14"><fo:page-number-citation ref-id="unique_14"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_14">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                    </fo:block></fo:block-container>
-                                </fo:block>
                             </fo:block>
                         </fo:block></fo:block-container>
                         </fo:block></fo:block></fo:block></fo:block></fo:block-container></fo:block></fo:block-container></fo:block></fo:flow></fo:page-sequence><fo:page-sequence master-reference="chapter" force-page-count="no-force" line-height-shift-adjustment="disregard-shifts"><fo:static-content flow-name="sc-before-left" role="artifact"><fo:table border-collapse="separate" table-layout="fixed" width="100%"><fo:table-body><fo:table-row><!--TOP-LEFT--><fo:table-cell start-indent="0" end-indent="0" height="1in" width="(8.5in - 1in - 1in)" text-align="left" display-align="center" font-size="10pt" font-family="&#34;PT Sans&#34; , sans-serif"><fo:block><fo:retrieve-marker retrieve-class-name="maptitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="parttitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="chaptertitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="sectiontitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/> | <fo:page-number/></fo:block></fo:table-cell></fo:table-row></fo:table-body></fo:table></fo:static-content><fo:static-content flow-name="sc-before-right" role="artifact"><fo:table border-collapse="separate" table-layout="fixed" width="100%"><fo:table-body><fo:table-row><!--TOP-RIGHT--><fo:table-cell start-indent="0" end-indent="0" height="1in" width="(8.5in - 1in - 1in)" text-align="right" display-align="center" font-size="10pt" font-family="&#34;PT Sans&#34; , sans-serif"><fo:block><fo:retrieve-marker retrieve-class-name="maptitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="parttitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="chaptertitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="sectiontitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/> | <fo:page-number/></fo:block></fo:table-cell></fo:table-row></fo:table-body></fo:table></fo:static-content><fo:static-content flow-name="xsl-footnote-separator" role="artifact" text-align="left" display-align="auto" font-size="10pt" font-family="&#34;PT Sans&#34; , sans-serif" border-top-style="solid" border-top-color="black" border-top-width="thin" padding-top="8pt"><fo:block/></fo:static-content><fo:flow flow-name="xsl-region-body"><fo:block font-family="serif" font-size="12px" xml:lang="en"><fo:block-container font-family="PT Sans, sans-serif" font-size="10pt" line-height="1.7em" margin-left="0" margin-right="0"><fo:block end-indent="0" start-indent="0"><fo:block-container font-size="1em" line-height="1.7em" space-after="2em" padding-bottom="1.5em" padding-left="1.5em" margin-left="0" padding-right="1.5em" margin-right="0" padding-top="1.5em"><fo:block end-indent="0" start-indent="0"><fo:block><fo:block color="rgb(68 , 68 , 68)"><fo:block xml:lang="en"><fo:block-container space-before="1em" id="unique_18" chfox:nd-id="t_do_you_really_need_a_screenshot"><fo:block end-indent="0" start-indent="0" role="Sect">
@@ -1283,13 +1170,13 @@
                                         on separate layers (for example, PDF or TIFF), flatten the
                                         image on export.</fo:block></fo:block-container>
                                     <fo:block-container space-after="0.5em" margin-left="0" margin-right="0" space-before="1em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
-                                    <fo:block text-align="right">
-                                        <fo:table width="100%" table-layout="fixed" space-after="1em"><fo:table-column column-width="(100% - 800px) div 1"/><fo:table-column column-width="800px"/><fo:table-body><fo:table-row><fo:table-cell start-indent="0" end-indent="0"><fo:block/></fo:table-cell><fo:table-cell start-indent="0" end-indent="0"><fo:block-container max-height="100%" max-width="100%" id="unique_19_Connect_42_image_mrm_knv_ktb" chfox:nd-id="image_mrm_knv_ktb"><fo:block end-indent="0" start-indent="0"><fo:inline><fo:external-graphic src="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/Different-types-of-PII-or-personally-identifiable-information.png" max-width="100%" max-height="100%" scaling="uniform" width="800px" content-width="scale-to-fit"/></fo:inline></fo:block></fo:block-container></fo:table-cell></fo:table-row></fo:table-body></fo:table>
+                                    <fo:block text-align="center">
+                                        <fo:table width="100%" table-layout="fixed" space-after="1em"><fo:table-column column-width="(100% - 600px) div 2"/><fo:table-column column-width="600px"/><fo:table-column column-width="(100% - 600px) div 2"/><fo:table-body><fo:table-row><fo:table-cell start-indent="0" end-indent="0"><fo:block/></fo:table-cell><fo:table-cell start-indent="0" end-indent="0"><fo:block-container max-height="100%" max-width="100%" id="unique_19_Connect_42_image_mrm_knv_ktb" chfox:nd-id="image_mrm_knv_ktb"><fo:block end-indent="0" start-indent="0"><fo:inline><fo:external-graphic src="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/Different-types-of-PII-or-personally-identifiable-information.png" max-width="100%" max-height="100%" scaling="uniform" width="600px" content-width="scale-to-fit"/></fo:inline></fo:block></fo:block-container></fo:table-cell><fo:table-cell start-indent="0" end-indent="0"><fo:block/></fo:table-cell></fo:table-row></fo:table-body></fo:table>
                                     </fo:block>
                                 </fo:block></fo:block-container>
                             </fo:block></fo:block-container>
                             <fo:block role="Sect" id="unique_20" chfox:nd-id="t_think_about_1_what_is_pii">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title20"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>What is PII?</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title20"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> What is PII?</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -1321,21 +1208,9 @@
                                             </fo:list-block></fo:block></fo:block-container>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
-                                <fo:block>
-                                    <fo:block-container background-color="rgb(58 , 68 , 74)" border-bottom-color="rgb(41 , 49 , 54)" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(41 , 49 , 54)" border-left-style="solid" border-left-width="1px" border-right-color="rgb(41 , 49 , 54)" border-right-style="solid" border-right-width="1px" border-top-color="rgb(41 , 49 , 54)" border-top-style="solid" border-top-width="1px" color="white" font-size="0.91em" space-after="0" margin-left="0" margin-right="0" space-before="1em" padding-bottom="0" padding-left="1em" padding-right="1em" padding-top="0"><fo:block end-indent="0" start-indent="0">
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block color="rgb(251 , 251 , 251)" font-weight="bold" page-break-after="avoid">Related information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_19">Think
-                                                  about
-                                                  privacy</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_19"><fo:inline color="rgb(251 , 251 , 251)" font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_19"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_19"><fo:page-number-citation ref-id="unique_19"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_19">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                    </fo:block></fo:block-container>
-                                </fo:block>
                             </fo:block>
                             <fo:block role="Sect" id="unique_21" chfox:nd-id="t_think_about_2_what_is_spii">
-                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title21"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline>What is SPII?</fo:inline></fo:block></fo:block-container>
+                                <fo:block-container font-size="1.7em" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title21"><fo:block end-indent="0" start-indent="0" role="H2"><fo:inline> What is SPII?</fo:inline></fo:block></fo:block-container>
                                 
                                 <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                     <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -1379,18 +1254,6 @@
                                         </fo:list-block>
                                     </fo:block></fo:block-container>
                                 </fo:block></fo:block-container>
-                                <fo:block>
-                                    <fo:block-container background-color="rgb(58 , 68 , 74)" border-bottom-color="rgb(41 , 49 , 54)" border-bottom-style="solid" border-bottom-width="1px" border-left-color="rgb(41 , 49 , 54)" border-left-style="solid" border-left-width="1px" border-right-color="rgb(41 , 49 , 54)" border-right-style="solid" border-right-width="1px" border-top-color="rgb(41 , 49 , 54)" border-top-style="solid" border-top-width="1px" color="white" font-size="0.91em" space-after="0" margin-left="0" margin-right="0" space-before="1em" padding-bottom="0" padding-left="1em" padding-right="1em" padding-top="0"><fo:block end-indent="0" start-indent="0">
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block color="rgb(251 , 251 , 251)" font-weight="bold" page-break-after="avoid">Related information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_19">Think
-                                                  about
-                                                  privacy</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_19"><fo:inline color="rgb(251 , 251 , 251)" font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_19"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_19"><fo:page-number-citation ref-id="unique_19"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_19">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                    </fo:block></fo:block-container>
-                                </fo:block>
                             </fo:block>
                         </fo:block></fo:block-container>
                         </fo:block></fo:block></fo:block></fo:block></fo:block-container></fo:block></fo:block-container></fo:block></fo:flow></fo:page-sequence><fo:page-sequence master-reference="chapter" force-page-count="no-force" id="last-page-sequence" line-height-shift-adjustment="disregard-shifts"><fo:static-content flow-name="sc-before-left" role="artifact"><fo:table border-collapse="separate" table-layout="fixed" width="100%"><fo:table-body><fo:table-row><!--TOP-LEFT--><fo:table-cell start-indent="0" end-indent="0" height="1in" width="(8.5in - 1in - 1in)" text-align="left" display-align="center" font-size="10pt" font-family="&#34;PT Sans&#34; , sans-serif"><fo:block><fo:retrieve-marker retrieve-class-name="maptitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="parttitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="chaptertitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="sectiontitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/> | <fo:page-number/></fo:block></fo:table-cell></fo:table-row></fo:table-body></fo:table></fo:static-content><fo:static-content flow-name="sc-before-right" role="artifact"><fo:table border-collapse="separate" table-layout="fixed" width="100%"><fo:table-body><fo:table-row><!--TOP-RIGHT--><fo:table-cell start-indent="0" end-indent="0" height="1in" width="(8.5in - 1in - 1in)" text-align="right" display-align="center" font-size="10pt" font-family="&#34;PT Sans&#34; , sans-serif"><fo:block><fo:retrieve-marker retrieve-class-name="maptitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="parttitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="chaptertitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="sectiontitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/> | <fo:page-number/></fo:block></fo:table-cell></fo:table-row></fo:table-body></fo:table></fo:static-content><fo:static-content flow-name="xsl-footnote-separator" role="artifact" text-align="left" display-align="auto" font-size="10pt" font-family="&#34;PT Sans&#34; , sans-serif" border-top-style="solid" border-top-color="black" border-top-width="thin" padding-top="8pt"><fo:block/></fo:static-content><fo:flow flow-name="xsl-region-body"><fo:block font-family="serif" font-size="12px" xml:lang="en"><fo:block-container font-family="PT Sans, sans-serif" font-size="10pt" line-height="1.7em" margin-left="0" margin-right="0"><fo:block end-indent="0" start-indent="0"><fo:block-container font-size="1em" line-height="1.7em" space-after="2em" padding-bottom="1.5em" padding-left="1.5em" margin-left="0" padding-right="1.5em" margin-right="0" padding-top="1.5em"><fo:block end-indent="0" start-indent="0"><fo:block><fo:block color="rgb(68 , 68 , 68)"><fo:block xml:lang="en"><fo:block-container space-before="1em" id="unique_22" chfox:nd-id="t_useful_tools_free_and_paid"><fo:block end-indent="0" start-indent="0" role="Sect">
@@ -1436,7 +1299,7 @@
                                     <fo:block-container space-after="1em" space-before="1em"><fo:block end-indent="0" start-indent="0" role="Sect"/></fo:block-container>
                                 </fo:block></fo:block-container>
                                 <fo:block role="Sect" id="unique_23" chfox:nd-id="t_snagit">
-                                    <fo:block-container font-size="1.4em" font-weight="300" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title24"><fo:block end-indent="0" start-indent="0" role="H3"><fo:inline>Snagit</fo:inline></fo:block></fo:block-container>
+                                    <fo:block-container font-size="1.4em" font-weight="300" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title24"><fo:block end-indent="0" start-indent="0" role="H3"><fo:inline> Snagit</fo:inline></fo:block></fo:block-container>
                                     
                                     <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                         <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -1472,7 +1335,7 @@
                                     </fo:block></fo:block-container>
                                 </fo:block>
                                 <fo:block role="Sect" id="unique_24" chfox:nd-id="t_wondershare_democreator">
-                                    <fo:block-container font-size="1.4em" font-weight="300" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title25"><fo:block end-indent="0" start-indent="0" role="H3"><fo:inline><fo:inline font-weight="bold">Screenpresso</fo:inline></fo:inline></fo:block></fo:block-container>
+                                    <fo:block-container font-size="1.4em" font-weight="300" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title25"><fo:block end-indent="0" start-indent="0" role="H3"><fo:inline> Screenpresso</fo:inline></fo:block></fo:block-container>
                                     
                                     <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                         <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -1517,8 +1380,7 @@
                                     </fo:block></fo:block-container>
                                 </fo:block>
                                 <fo:block role="Sect" id="unique_25" chfox:nd-id="t_3_passfab_screen_recorder">
-                                    <fo:block-container font-size="1.4em" font-weight="300" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title26"><fo:block end-indent="0" start-indent="0" role="H3"><fo:inline><fo:inline font-weight="bold">FastStone
-                                            Capture</fo:inline></fo:inline></fo:block></fo:block-container>
+                                    <fo:block-container font-size="1.4em" font-weight="300" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title26"><fo:block end-indent="0" start-indent="0" role="H3"><fo:inline> FastStone Capture</fo:inline></fo:block></fo:block-container>
                                     
                                     <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                         <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -1574,7 +1436,7 @@
                                     <fo:block-container space-after="1em" space-before="1em"><fo:block end-indent="0" start-indent="0" role="Sect"/></fo:block-container>
                                 </fo:block></fo:block-container>
                                 <fo:block role="Sect" id="unique_26" chfox:nd-id="t_1_snipping_tool">
-                                    <fo:block-container font-size="1.4em" font-weight="300" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title28"><fo:block end-indent="0" start-indent="0" role="H3"><fo:inline>Snipping Tool</fo:inline></fo:block></fo:block-container>
+                                    <fo:block-container font-size="1.4em" font-weight="300" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title28"><fo:block end-indent="0" start-indent="0" role="H3"><fo:inline> Snipping Tool</fo:inline></fo:block></fo:block-container>
                                     
                                     <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                         <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -1617,7 +1479,7 @@
                                     </fo:block></fo:block-container>
                                 </fo:block>
                                 <fo:block role="Sect" id="unique_27" chfox:nd-id="t_2_jing">
-                                    <fo:block-container font-size="1.4em" font-weight="300" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title29"><fo:block end-indent="0" start-indent="0" role="H3"><fo:inline>Jing</fo:inline></fo:block></fo:block-container>
+                                    <fo:block-container font-size="1.4em" font-weight="300" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title29"><fo:block end-indent="0" start-indent="0" role="H3"><fo:inline> Jing</fo:inline></fo:block></fo:block-container>
                                     
                                     <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                         <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>
@@ -1655,7 +1517,7 @@
                                     </fo:block></fo:block-container>
                                 </fo:block>
                                 <fo:block role="Sect" id="unique_28" chfox:nd-id="t_3_skitch">
-                                    <fo:block-container font-size="1.4em" font-weight="300" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title30"><fo:block end-indent="0" start-indent="0" role="H3"><fo:inline>Skitch</fo:inline></fo:block></fo:block-container>
+                                    <fo:block-container font-size="1.4em" font-weight="300" line-height="1.7em" space-after="0.5em" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid" id="ariaid-title30"><fo:block end-indent="0" start-indent="0" role="H3"><fo:inline> Skitch</fo:inline></fo:block></fo:block-container>
                                     
                                     <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
                                         <fo:block-container font-style="italic" space-after="0.5em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"/></fo:block-container>

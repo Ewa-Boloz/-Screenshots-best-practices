@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_SUI_3_how_to_create_sui">
-    <title>How to create SUI?</title>
+    <title>          How to create SUI?</title>
     <shortdesc/>
     <taskbody>
         <context>
@@ -24,17 +24,17 @@
                     tips to reduce the complexity of the image and focus attention on the important
                     parts.</cmd>
                 <info>
-                    <note id="note_usf_2n5_ktb" type="tip">Use the color palette which works with your
-                        interface.</note>
+                    <note id="note_usf_2n5_ktb" type="tip">Use the color palette which works with
+                        your interface.</note>
                 </info>
             </step>
             <step>
                 <cmd>Save your file as a .png to be used in your documentation.</cmd>
                 <info>
-                    <note id="note_sj1_1n5_ktb" type="tip">It is also recommended to save your final image as a
-                        project file type. It allows you to reopen the project to edit and adjust
-                        the image later on. This makes updating your image easy so you won’t need to
-                        recreate your SUI graphic every time.</note>
+                    <note id="note_sj1_1n5_ktb" type="tip">It is also recommended to save your final
+                        image as a project file type. It allows you to reopen the project to edit
+                        and adjust the image later on. This makes updating your image easy so you
+                        won’t need to recreate your SUI graphic every time.</note>
                 </info>
             </step>
         </steps>
