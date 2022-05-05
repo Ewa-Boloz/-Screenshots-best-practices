@@ -2,7 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_my_first_task">
     <title>Terminology</title>
-    <shortdesc/>
+    <shortdesc>In documentation, we recognize screenshots which are pictures of a computer screen,
+        or schematic drawings as various diagrams and charts. Learn which names are correct and can
+        be used in your instruction.</shortdesc>
     <taskbody>
         <context>
             <p>In documentation, we recognize <b>screenshots</b> which are pictures of a computer
