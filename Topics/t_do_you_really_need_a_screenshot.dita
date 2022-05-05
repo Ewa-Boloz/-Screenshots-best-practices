@@ -2,7 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_do_you_really_need_a_screenshot">
     <title>Do you really need a screenshot?</title>
-    <shortdesc>Decide when to use screenshots in your documentation.</shortdesc>
+    <shortdesc>One of the common questions when developing documentation is, "How many screenshots
+        should I include?" Decide when to use screenshots in your documentation.</shortdesc>
     <taskbody>
         <context>
             <p>One of the common questions when developing documentation is, "How many screenshots
@@ -47,7 +48,7 @@
         </steps>
         <postreq id="postreq_kb4_w35_ktb">
             <p><b>With all of the above in mind, when to use and when not to use images?</b></p>
-            <p>Use screenshots for the following purposes:</p>
+            <p>&#9989; Use screenshots for the following purposes:</p>
             <ul id="ul_ipz_z35_ktb">
                 <li>to orient users in a complicated or long procedure</li>
                 <li>to show complex windows or dialog boxes, such as those that contain multiple

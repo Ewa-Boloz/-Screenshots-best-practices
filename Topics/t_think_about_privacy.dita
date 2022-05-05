@@ -2,7 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_think_about_privacy">
     <title>Think about privacy</title>
-    <shortdesc/>
+    <shortdesc>You often need to take a screenshot of a page that contains confidential information
+        such as account identifications, income data or personal info. Make sure to mask, modify, or
+        remove any personal identifiers, passwords, logins, or other information that could
+        compromise security.</shortdesc>
     <taskbody>
         <context>
             <p>Еven when we take a screenshot to send it to a friend, we have to be aware of what we

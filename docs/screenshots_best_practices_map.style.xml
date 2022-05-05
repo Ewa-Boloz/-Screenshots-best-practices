@@ -34,6 +34,10 @@
                                 <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="my_first_topic">
                                     <div appid="my_first_topic" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
                                     <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_1" css:text-align-last="justify" href="#unique_1"><css:before css:display="inline" css:link="#unique_1"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="1"/><css:text/><css:text>. </css:text></css:before>Welcome<css:after css:display="inline" css:link="#unique_1"><css:leader pattern="."/><css:target-counter url-fragment="unique_1"/></css:after></div>
+                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">The main idea behind this project is
+                                        to show you how to create great informative screenshots that
+                                        will save you and your readers a lot of time and learning
+                                        efforts.</div>
                                     <div class="- topic/author author" css:display="none">Ewa
                                         Bołoz</div>
                                 </div>
@@ -57,15 +61,17 @@
                                     <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_3" css:text-align-last="justify" href="#unique_3"><css:before css:display="inline" css:link="#unique_3"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="3"/><css:text/><css:text>. </css:text></css:before>How
                                         to create a perfect
                                         screenshot<css:after css:display="inline" css:link="#unique_3"><css:leader pattern="."/><css:target-counter url-fragment="unique_3"/></css:after></div>
-                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
+                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">Go through some fundamental steps to
+                                        make sure your screenshots look the best way possible. Find
+                                        out what will be the best format, size, layout and how to
+                                        edit your images.</div>
                                     <div class="- topic/author author" css:display="none">Ewa
                                         Bołoz</div>
                                 </div>
                                 <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_4" type="task">
                                     <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_my_third_task">
                                         <div appid="t_my_third_task" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_4" css:text-align-last="justify" href="#unique_4"><css:before css:display="inline" css:link="#unique_4"/>
-                                            Size<css:after css:display="inline" css:link="#unique_4"><css:leader pattern="."/><css:target-counter url-fragment="unique_4"/></css:after></div>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_4" css:text-align-last="justify" href="#unique_4"><css:before css:display="inline" css:link="#unique_4"/>Size<css:after css:display="inline" css:link="#unique_4"><css:leader pattern="."/><css:target-counter url-fragment="unique_4"/></css:after></div>
                                         <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
                                         <div class="- topic/author author" css:display="none">Ewa
                                             Bołoz</div>
@@ -74,8 +80,7 @@
                                 <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_5" type="task">
                                     <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_my_fourth_task">
                                         <div appid="t_my_fourth_task" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_5" css:text-align-last="justify" href="#unique_5"><css:before css:display="inline" css:link="#unique_5"/>
-                                            Format<css:after css:display="inline" css:link="#unique_5"><css:leader pattern="."/><css:target-counter url-fragment="unique_5"/></css:after></div>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_5" css:text-align-last="justify" href="#unique_5"><css:before css:display="inline" css:link="#unique_5"/>Format<css:after css:display="inline" css:link="#unique_5"><css:leader pattern="."/><css:target-counter url-fragment="unique_5"/></css:after></div>
                                         <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
                                         <div class="- topic/author author" css:display="none">Ewa
                                             Bołoz</div>
@@ -84,8 +89,7 @@
                                 <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_6" type="task">
                                     <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_my_sixth_task">
                                         <div appid="t_my_sixth_task" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_6" css:text-align-last="justify" href="#unique_6"><css:before css:display="inline" css:link="#unique_6"/>
-                                            Cursor<css:after css:display="inline" css:link="#unique_6"><css:leader pattern="."/><css:target-counter url-fragment="unique_6"/></css:after></div>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_6" css:text-align-last="justify" href="#unique_6"><css:before css:display="inline" css:link="#unique_6"/>Cursor<css:after css:display="inline" css:link="#unique_6"><css:leader pattern="."/><css:target-counter url-fragment="unique_6"/></css:after></div>
                                         <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
                                         <div class="- topic/author author" css:display="none">Ewa
                                             Bołoz</div>
@@ -94,8 +98,7 @@
                                 <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_7" type="task">
                                     <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_my_seventh_task">
                                         <div appid="t_my_seventh_task" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_7" css:text-align-last="justify" href="#unique_7"><css:before css:display="inline" css:link="#unique_7"/>
-                                            Editing<css:after css:display="inline" css:link="#unique_7"><css:leader pattern="."/><css:target-counter url-fragment="unique_7"/></css:after></div>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_7" css:text-align-last="justify" href="#unique_7"><css:before css:display="inline" css:link="#unique_7"/>Editing<css:after css:display="inline" css:link="#unique_7"><css:leader pattern="."/><css:target-counter url-fragment="unique_7"/></css:after></div>
                                         <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
                                         <div class="- topic/author author" css:display="none">Ewa
                                             Bołoz</div>
@@ -104,8 +107,8 @@
                                 <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_8" type="task">
                                     <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_my_ninth_task">
                                         <div appid="t_my_ninth_task" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_8" css:text-align-last="justify" href="#unique_8"><css:before css:display="inline" css:link="#unique_8"/>
-                                            Graphic elements on
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_8" css:text-align-last="justify" href="#unique_8"><css:before css:display="inline" css:link="#unique_8"/>Graphic
+                                            elements on
                                             screenshots<css:after css:display="inline" css:link="#unique_8"><css:leader pattern="."/><css:target-counter url-fragment="unique_8"/></css:after></div>
                                         <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
                                         <div class="- topic/author author" css:display="none">Ewa
@@ -126,8 +129,8 @@
                                 <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_10" type="task">
                                     <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_how_to_7_text_in_figures">
                                         <div appid="t_how_to_7_text_in_figures" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_10" css:text-align-last="justify" href="#unique_10"><css:before css:display="inline" css:link="#unique_10"/>
-                                            Text in
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_10" css:text-align-last="justify" href="#unique_10"><css:before css:display="inline" css:link="#unique_10"/>Text
+                                            in
                                             figures<css:after css:display="inline" css:link="#unique_10"><css:leader pattern="."/><css:target-counter url-fragment="unique_10"/></css:after></div>
                                         <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
                                         <div class="- topic/author author" css:display="none">Ewa
@@ -137,8 +140,8 @@
                                 <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_11" type="task">
                                     <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_how_to_8_text_associated_with_images">
                                         <div appid="t_how_to_8_text_associated_with_images" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_11" css:text-align-last="justify" href="#unique_11"><css:before css:display="inline" css:link="#unique_11"/>
-                                            Text associated with
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_11" css:text-align-last="justify" href="#unique_11"><css:before css:display="inline" css:link="#unique_11"/>Text
+                                            associated with
                                             images<css:after css:display="inline" css:link="#unique_11"><css:leader pattern="."/><css:target-counter url-fragment="unique_11"/></css:after></div>
                                         <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
                                         <div class="- topic/author author" css:display="none">Ewa
@@ -174,7 +177,10 @@
                                     <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_14" css:text-align-last="justify" href="#unique_14"><css:before css:display="inline" css:link="#unique_14"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="4"/><css:text/><css:text>. </css:text></css:before>Simplified
                                         User
                                         Interface<css:after css:display="inline" css:link="#unique_14"><css:leader pattern="."/><css:target-counter url-fragment="unique_14"/></css:after></div>
-                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
+                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">A simplified user interface (SUI) is
+                                        a visual representation of a software interface that removes
+                                        unimportant elements and reduces them to simpler shapes.
+                                        Check how to create SUI and where to use it.</div>
                                     <div class="- topic/author author" css:display="none">Ewa
                                         Bołoz</div>
                                 </div>
@@ -218,8 +224,10 @@
                                     <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_18" css:text-align-last="justify" href="#unique_18"><css:before css:display="inline" css:link="#unique_18"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="5"/><css:text/><css:text>. </css:text></css:before>Do
                                         you really need a
                                         screenshot?<css:after css:display="inline" css:link="#unique_18"><css:leader pattern="."/><css:target-counter url-fragment="unique_18"/></css:after></div>
-                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">Decide when to use screenshots in
-                                        your documentation.</div>
+                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">One of the common questions when
+                                        developing documentation is, "How many screenshots should I
+                                        include?" Decide when to use screenshots in your
+                                        documentation.</div>
                                     <div class="- topic/author author" css:display="none">Ewa
                                         Bołoz</div>
                                 </div>
@@ -230,7 +238,12 @@
                                     <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_19" css:text-align-last="justify" href="#unique_19"><css:before css:display="inline" css:link="#unique_19"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="6"/><css:text/><css:text>. </css:text></css:before>Think
                                         about
                                         privacy<css:after css:display="inline" css:link="#unique_19"><css:leader pattern="."/><css:target-counter url-fragment="unique_19"/></css:after></div>
-                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
+                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">You often need to take a screenshot
+                                        of a page that contains confidential information such as
+                                        account identifications, income data or personal info. Make
+                                        sure to mask, modify, or remove any personal identifiers,
+                                        passwords, logins, or other information that could
+                                        compromise security.</div>
                                     <div class="- topic/author author" css:display="none">Ewa
                                         Bołoz</div>
                                 </div>
@@ -263,81 +276,81 @@
                                     <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_22" css:text-align-last="justify" href="#unique_22"><css:before css:display="inline" css:link="#unique_22"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="7"/><css:text/><css:text>. </css:text></css:before>Useful
                                         tools (free and
                                         paid)<css:after css:display="inline" css:link="#unique_22"><css:leader pattern="."/><css:target-counter url-fragment="unique_22"/></css:after></div>
-                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">Find a proper screenshot tool.</div>
+                                    <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic">With good screenshot software, it is
+                                        easy to take screenshot and has built-in editor for basic
+                                        operations like cropping, drawing arrows, adding shapes and
+                                        texts etc. Find a proper screenshot tool for yourself.</div>
                                     <div class="- topic/author author" css:display="none">Ewa
                                         Bołoz</div>
                                 </div>
-                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_29" type="task">
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_24" type="task">
                                     <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_useful_tools_1_snagit">
                                         <div appid="t_useful_tools_1_snagit" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_29" css:text-align-last="justify" href="#unique_29"><css:before css:display="inline" css:link="#unique_29"/>Paid
-                                            tools<css:after css:display="inline" css:link="#unique_29"><css:leader pattern="."/><css:target-counter url-fragment="unique_29"/></css:after></div>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_24" css:text-align-last="justify" href="#unique_24"><css:before css:display="inline" css:link="#unique_24"/>Paid
+                                            tools<css:after css:display="inline" css:link="#unique_24"><css:leader pattern="."/><css:target-counter url-fragment="unique_24"/></css:after></div>
                                         <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
                                         <div class="- topic/author author" css:display="none">Ewa
                                             Bołoz</div>
-                                    </div>
-                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_23" type="task">
-                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_snagit">
-                                            <div appid="t_snagit" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_23" css:text-align-last="justify" href="#unique_23"><css:before css:display="inline" css:link="#unique_23"/>
-                                                Snagit<css:after css:display="inline" css:link="#unique_23"><css:leader pattern="."/><css:target-counter url-fragment="unique_23"/></css:after></div>
-                                            <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
-                                            <div class="- topic/author author" css:display="none">Ewa Bołoz</div>
-                                        </div>
-                                    </div>
-                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_24" type="task">
-                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_wondershare_democreator">
-                                            <div appid="t_wondershare_democreator" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_24" css:text-align-last="justify" href="#unique_24"><css:before css:display="inline" css:link="#unique_24"/>
-                                                Screenpresso<css:after css:display="inline" css:link="#unique_24"><css:leader pattern="."/><css:target-counter url-fragment="unique_24"/></css:after></div>
-                                            <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
-                                            <div class="- topic/author author" css:display="none">Ewa Bołoz</div>
-                                        </div>
                                     </div>
                                     <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_25" type="task">
-                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_3_passfab_screen_recorder">
-                                            <div appid="t_3_passfab_screen_recorder" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_snagit">
+                                            <div appid="t_snagit" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
                                             <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_25" css:text-align-last="justify" href="#unique_25"><css:before css:display="inline" css:link="#unique_25"/>
-                                                FastStone
-                                                Capture<css:after css:display="inline" css:link="#unique_25"><css:leader pattern="."/><css:target-counter url-fragment="unique_25"/></css:after></div>
+                                                Snagit<css:after css:display="inline" css:link="#unique_25"><css:leader pattern="."/><css:target-counter url-fragment="unique_25"/></css:after></div>
                                             <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
                                             <div class="- topic/author author" css:display="none">Ewa Bołoz</div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_30" type="task">
-                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_useful_tools_2_wondershare_democreator">
-                                        <div appid="t_useful_tools_2_wondershare_democreator" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_30" css:text-align-last="justify" href="#unique_30"><css:before css:display="inline" css:link="#unique_30"/>Free
-                                            tools<css:after css:display="inline" css:link="#unique_30"><css:leader pattern="."/><css:target-counter url-fragment="unique_30"/></css:after></div>
-                                        <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
-                                        <div class="- topic/author author" css:display="none">Ewa
-                                            Bołoz</div>
-                                    </div>
                                     <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_26" type="task">
-                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_1_snipping_tool">
-                                            <div appid="t_1_snipping_tool" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_wondershare_democreator">
+                                            <div appid="t_wondershare_democreator" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
                                             <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_26" css:text-align-last="justify" href="#unique_26"><css:before css:display="inline" css:link="#unique_26"/>
-                                                Snipping
-                                                Tool<css:after css:display="inline" css:link="#unique_26"><css:leader pattern="."/><css:target-counter url-fragment="unique_26"/></css:after></div>
+                                                Screenpresso<css:after css:display="inline" css:link="#unique_26"><css:leader pattern="."/><css:target-counter url-fragment="unique_26"/></css:after></div>
                                             <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
                                             <div class="- topic/author author" css:display="none">Ewa Bołoz</div>
                                         </div>
                                     </div>
                                     <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_27" type="task">
-                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_2_jing">
-                                            <div appid="t_2_jing" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_3_passfab_screen_recorder">
+                                            <div appid="t_3_passfab_screen_recorder" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
                                             <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_27" css:text-align-last="justify" href="#unique_27"><css:before css:display="inline" css:link="#unique_27"/>
-                                                Jing<css:after css:display="inline" css:link="#unique_27"><css:leader pattern="."/><css:target-counter url-fragment="unique_27"/></css:after></div>
+                                                FastStone
+                                                Capture<css:after css:display="inline" css:link="#unique_27"><css:leader pattern="."/><css:target-counter url-fragment="unique_27"/></css:after></div>
                                             <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
                                             <div class="- topic/author author" css:display="none">Ewa Bołoz</div>
                                         </div>
                                     </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_23" type="task">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_useful_tools_2_wondershare_democreator">
+                                        <div appid="t_useful_tools_2_wondershare_democreator" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_23" css:text-align-last="justify" href="#unique_23"><css:before css:display="inline" css:link="#unique_23"/>Free
+                                            tools<css:after css:display="inline" css:link="#unique_23"><css:leader pattern="."/><css:target-counter url-fragment="unique_23"/></css:after></div>
+                                        <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
+                                        <div class="- topic/author author" css:display="none">Ewa
+                                            Bołoz</div>
+                                    </div>
                                     <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_28" type="task">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_1_snipping_tool">
+                                            <div appid="t_1_snipping_tool" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_28" css:text-align-last="justify" href="#unique_28"><css:before css:display="inline" css:link="#unique_28"/>Snipping
+                                                Tool<css:after css:display="inline" css:link="#unique_28"><css:leader pattern="."/><css:target-counter url-fragment="unique_28"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
+                                            <div class="- topic/author author" css:display="none">Ewa Bołoz</div>
+                                        </div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_29" type="task">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_2_jing">
+                                            <div appid="t_2_jing" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_29" css:text-align-last="justify" href="#unique_29"><css:before css:display="inline" css:link="#unique_29"/>Jing<css:after css:display="inline" css:link="#unique_29"><css:leader pattern="."/><css:target-counter url-fragment="unique_29"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
+                                            <div class="- topic/author author" css:display="none">Ewa Bołoz</div>
+                                        </div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_30" type="task">
                                         <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="t_3_skitch">
                                             <div appid="t_3_skitch" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_28" css:text-align-last="justify" href="#unique_28"><css:before css:display="inline" css:link="#unique_28"/>
-                                                Skitch<css:after css:display="inline" css:link="#unique_28"><css:leader pattern="."/><css:target-counter url-fragment="unique_28"/></css:after></div>
+                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_30" css:text-align-last="justify" href="#unique_30"><css:before css:display="inline" css:link="#unique_30"/>Skitch<css:after css:display="inline" css:link="#unique_30"><css:leader pattern="."/><css:target-counter url-fragment="unique_30"/></css:after></div>
                                             <div class="- map/shortdesc shortdesc" css:display="none" css:font-style="italic"/>
                                             <div class="- topic/author author" css:display="none">Ewa Bołoz</div>
                                         </div>
@@ -352,6 +365,10 @@
                                     Bołoz</div>
                             </div>
                             <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The main idea behind this project is to
+                                    show you how to create great informative screenshots that will
+                                    save you and your readers a lot of time and learning
+                                    efforts.</p>
                                 <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">A
                                     picture is worth a thousand words. We all take pictures of our
                                     screen from time to time because it is often the fastest way to
@@ -365,8 +382,14 @@
                                     great informative screenshots that will save you and your
                                     readers a lot of time and learning efforts.</p>
                                 <div class="imageright break" css:display="block" css:text-align="right">
-                                    <img align="right" class="- topic/image image imageright break" css:display="block" css:image-resolution="96dpi" css:margin-bottom="1em" css:margin-left="auto" css:max-height="100%" css:max-width="100%" css:width="600px" href="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png" id="unique_1_Connect_42_image_hnz_sqw_ktb" nd:nd-id="image_hnz_sqw_ktb" placement="break" src="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png" width="600"><css:content-on-element><css:uri extracted-image-height="654" extracted-image-width="1024" uri="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png"/></css:content-on-element></img>
+                                    <img align="right" class="- topic/image image imageright break" css:display="block" css:image-resolution="96dpi" css:margin-bottom="1em" css:margin-left="auto" css:max-height="100%" css:max-width="100%" css:width="500px" href="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png" id="unique_1_Connect_42_image_hnz_sqw_ktb" nd:nd-id="image_hnz_sqw_ktb" placement="break" src="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png" width="500"><css:content-on-element><css:uri extracted-image-height="654" extracted-image-width="1024" uri="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png"/></css:content-on-element></img>
                                 </div>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="https://ewa-boloz.github.io/-Screenshots-best-practices/screenshots_best_practices_map.pdf" format="pdf" href="https://ewa-boloz.github.io/-Screenshots-best-practices/screenshots_best_practices_map.pdf" rel="external noopener" scope="external" target="_blank">Download project in
+                                        PDF.<css:after css:display="inline" css:font-style="italic" css:link="https://ewa-boloz.github.io/-Screenshots-best-practices/screenshots_best_practices_map.pdf"/></a></p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"> </p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Created by Ewa Bołoz</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">e.kaczorkiewicz@gmail.com</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Cracow, Poland</p>
                             </div>
                         </article>
                         </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" lang="en" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/screenshots_best_practices_map.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="PT Sans, sans-serif" css:font-size="10pt" css:line-height="1.7em" css:margin-left="auto" css:margin-right="auto"><div class="wh_content_area" css:display="block" css:font-size="1em" css:line-height="1.7em" css:margin-bottom="2em" css:padding-bottom="1.5em" css:padding-left="1.5em" css:padding-right="1.5em" css:padding-top="1.5em"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:color="rgb(68 , 68 , 68)" css:display="block"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:ditaarchversion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title2" break-before="true" class="- topic/topic task/task topic task nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_2" is-chapter="true" nd:nd-id="t_my_first_task" oid="t_my_first_task" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
@@ -408,7 +431,10 @@
                                     Bołoz</div>
                             </div>
                             <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
-                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Go through some fundamental steps to
+                                    make sure your screenshots look the best way possible. Find out
+                                    what will be the best format, size, layout and how to edit your
+                                    images.</p>
                                 <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Let’s go through
                                         some fundamental steps to make sure your screenshots look
@@ -416,7 +442,7 @@
                                 </section>
                             </div>
                             <article aria-labelledby="ariaid-title4" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_4" nd:nd-id="t_my_third_task" oid="t_my_third_task" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title4"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> Size</span></h2>
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title4"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Size</span></h2>
                                 <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                     <div class="- topic/author author" css:display="none">Ewa
                                         Bołoz</div>
@@ -443,7 +469,7 @@
                                 </div>
                             </article>
                             <article aria-labelledby="ariaid-title5" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_5" nd:nd-id="t_my_fourth_task" oid="t_my_fourth_task" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title5"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> Format</span></h2>
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title5"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Format</span></h2>
                                 <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                     <div class="- topic/author author" css:display="none">Ewa
                                         Bołoz</div>
@@ -451,29 +477,27 @@
                                 <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                     <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
                                     <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_5_Connect_42_ul_q3h_22m_htb" nd:nd-id="ul_q3h_22m_htb">
-                                            <li class="- topic/li li" css:display="list-item">When
-                                                saving your screenshots, choose the PNG format over
-                                                JPEG. The latter is a compressed file format, while
-                                                PNG allows lossless compression hence more legible
-                                                text and crisp lines.</li>
-                                            <li class="- topic/li li" css:display="list-item">For
-                                                diagrams (architectural drawings, flow diagrams, and
-                                                so on, as distinct from screenshots), use SVG files
-                                                if possible because SVGs stay sharp when you zoom in
-                                                on the image. If you don't have an SVG file, then
-                                                save your image as a PNG file unless you have a good
-                                                reason to use a different format.</li>
-                                            <li class="- topic/li li" css:display="list-item"> If
-                                                you are adding some graphic elements to your
-                                                screenshots, it is a good practice to keep the
-                                                original pictures to edit them easily.</li>
-                                        </ul>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">When saving
+                                            your screenshots, choose the PNG format over JPEG. The
+                                            latter is a compressed file format, while PNG allows
+                                            lossless compression hence more legible text and crisp
+                                            lines.</p>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">For diagrams
+                                            (architectural drawings, flow diagrams, and so on, as
+                                            distinct from screenshots), use SVG files if possible
+                                            because SVGs stay sharp when you zoom in on the image.
+                                            If you don't have an SVG file, then save your image as a
+                                            PNG file unless you have a good reason to use a
+                                            different format.</p>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"> If you are
+                                            adding some graphic elements to your screenshots, it is
+                                            a good practice to keep the original pictures to edit
+                                            them easily.</p>
                                     </section>
                                 </div>
                             </article>
                             <article aria-labelledby="ariaid-title6" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_6" nd:nd-id="t_my_sixth_task" oid="t_my_sixth_task" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title6"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> Cursor</span></h2>
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title6"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Cursor</span></h2>
                                 <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                     <div class="- topic/author author" css:display="none">Ewa
                                         Bołoz</div>
@@ -492,7 +516,7 @@
                                 </div>
                             </article>
                             <article aria-labelledby="ariaid-title7" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_7" nd:nd-id="t_my_seventh_task" oid="t_my_seventh_task" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title7"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> Editing</span></h2>
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title7"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Editing</span></h2>
                                 <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                     <div class="- topic/author author" css:display="none">Ewa
                                         Bołoz</div>
@@ -500,16 +524,14 @@
                                 <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                     <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
                                     <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_7_Connect_42_ul_nbl_xgz_htb" nd:nd-id="ul_nbl_xgz_htb">
-                                            <li class="- topic/li li" css:display="list-item">Crop
-                                                screenshots to show the relevant information. For
-                                                example, don't include the full window if you just
-                                                want to show a single button or menu item. Cropping
-                                                helps the reader focus on the information that you
-                                                want to convey in the screenshot, and it can help
-                                                future-proof the screenshot if other parts of the UI
-                                                  change.<div class="simpletable-container" css:display="block">
-                                                  <table class="- topic/simpletable simpletable frame-none" css:border-bottom-color="black" css:border-bottom-style="none" css:border-collapse="collapse" css:border-left-color="black" css:border-left-style="none" css:border-right-color="black" css:border-right-style="none" css:border-top-color="black" css:border-top-style="none" css:display="table" css:hyphens="auto" css:margin-bottom="1em" css:margin-top="1em" css:table-layout="auto" frame="none" id="unique_7_Connect_42_simpletable_gm5_3bv_ktb" nd:nd-id="simpletable_gm5_3bv_ktb" relcolwidth="1* 1*">
+                                        <div class="- topic/p p" css:display="block" css:margin-top="1em">✅ Crop screenshots to show the
+                                            relevant information. For example, don't include the
+                                            full window if you just want to show a single button or
+                                            menu item. Cropping helps the reader focus on the
+                                            information that you want to convey in the screenshot,
+                                            and it can help future-proof the screenshot if other
+                                            parts of the UI change.<div class="simpletable-container" css:display="block">
+                                                <table class="- topic/simpletable simpletable frame-none" css:border-bottom-color="black" css:border-bottom-style="none" css:border-collapse="collapse" css:border-left-color="black" css:border-left-style="none" css:border-right-color="black" css:border-right-style="none" css:border-top-color="black" css:border-top-style="none" css:display="table" css:hyphens="auto" css:margin-bottom="1em" css:margin-top="1em" css:table-layout="auto" frame="none" id="unique_7_Connect_42_simpletable_gm5_3bv_ktb" nd:nd-id="simpletable_gm5_3bv_ktb" relcolwidth="1* 1*">
                                                   <colgroup css:display="table-column-group">
                                                   <col css:display="table-column" css:width="50%" style="width:50%"/>
                                                   <col css:display="table-column" css:width="50%" style="width:50%"/>
@@ -534,12 +556,12 @@
                                                   </td>
                                                   </tr>
                                                   </tbody>
-                                                  </table>
-                                                </div><div class="- topic/note note tip note_tip" css:background-color="rgba(0 , 120 , 160 , 0.09)" css:background-image="url('file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/img/tip.svg')" css:background-position="0.5em 0.5em" css:background-repeat="no-repeat" css:border-bottom-color="rgb(0 , 120 , 160)" css:border-bottom-left-radius="11px" css:border-bottom-right-radius="11px" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(0 , 120 , 160)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(0 , 120 , 160)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(0 , 120 , 160)" css:border-top-left-radius="11px" css:border-top-right-radius="11px" css:border-top-style="solid" css:border-top-width="1px" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Note" css:padding-bottom="0.75em" css:padding-left="3em" css:padding-right="0.5em" css:padding-top="0.75em" id="unique_7_Connect_42_note_tsd_mhz_htb" nd:nd-id="note_tsd_mhz_htb" type="tip"><span class="note__title" css:display="block" css:font-weight="bold" css:page-break-after="avoid">Tip:</span> It is
-                                                  always possible to add some graphics to draw
-                                                  attention to this pop-up window, but you need to
-                                                  think, if the other parts of the screenshot are
-                                                  really needed. Remember also that:<ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_7_Connect_42_ul_cyt_mhz_htb" nd:nd-id="ul_cyt_mhz_htb">
+                                                </table>
+                                            </div><div class="- topic/note note tip note_tip" css:background-color="rgba(0 , 120 , 160 , 0.09)" css:background-image="url('file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/img/tip.svg')" css:background-position="0.5em 0.5em" css:background-repeat="no-repeat" css:border-bottom-color="rgb(0 , 120 , 160)" css:border-bottom-left-radius="11px" css:border-bottom-right-radius="11px" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(0 , 120 , 160)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(0 , 120 , 160)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(0 , 120 , 160)" css:border-top-left-radius="11px" css:border-top-right-radius="11px" css:border-top-style="solid" css:border-top-width="1px" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Note" css:padding-bottom="0.75em" css:padding-left="3em" css:padding-right="0.5em" css:padding-top="0.75em" id="unique_7_Connect_42_note_tsd_mhz_htb" nd:nd-id="note_tsd_mhz_htb" type="tip"><span class="note__title" css:display="block" css:font-weight="bold" css:page-break-after="avoid">Tip:</span> It is
+                                                always possible to add some graphics to draw
+                                                attention to this pop-up window, but you need to
+                                                think, if the other parts of the screenshot are
+                                                really needed. Remember also that:<ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_7_Connect_42_ul_cyt_mhz_htb" nd:nd-id="ul_cyt_mhz_htb">
                                                   <li class="- topic/li li" css:display="list-item">fullscreen images are usually pretty heavy in
                                                   terms of the file size, traffic and loading
                                                   time.</li>
@@ -549,21 +571,19 @@
                                                   <li class="- topic/li li" css:display="list-item">fullscreen image content is more difficult to
                                                   control - there's a higher possibility of
                                                   accidentally leaving some PII in the picture</li>
-                                                  </ul></div></li>
-                                            <li class="- topic/li li" css:display="list-item">Try to
-                                                do not scale the image too much afterward. But if
-                                                you must, avoid the dreaded pixelation. Try resizing
-                                                your picture or screenshot in an image editing
-                                                program. Keep the same ratio of width to height, and
-                                                then add it back into your document or
-                                                presentation.</li>
-                                            <li class="- topic/li li" css:display="list-item">If you
-                                                need a big, full-size screenshot, try to resize the
-                                                window, before you take it. This is especially
-                                                important for mobile visitors of your documentation.
-                                                It is recommend to decide upon the max width for all
-                                                the images.<div class="simpletable-container" css:display="block">
-                                                  <table class="- topic/simpletable simpletable frame-none" css:border-bottom-color="black" css:border-bottom-style="none" css:border-collapse="collapse" css:border-left-color="black" css:border-left-style="none" css:border-right-color="black" css:border-right-style="none" css:border-top-color="black" css:border-top-style="none" css:display="table" css:hyphens="auto" css:margin-bottom="1em" css:margin-top="1em" css:table-layout="auto" frame="none" id="unique_7_Connect_42_simpletable_vdc_ddv_ktb" nd:nd-id="simpletable_vdc_ddv_ktb" relcolwidth="1* 1*">
+                                                </ul></div></div>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">✅ Try to do
+                                            not scale the image too much afterward. But if you must,
+                                            avoid the dreaded pixelation. Try resizing your picture
+                                            or screenshot in an image editing program. Keep the same
+                                            ratio of width to height, and then add it back into your
+                                            document or presentation.</p>
+                                        <div class="- topic/p p" css:display="block" css:margin-top="1em">✅ If you need a big, full-size
+                                            screenshot, try to resize the window, before you take
+                                            it. This is especially important for mobile visitors of
+                                            your documentation. It is recommend to decide upon the
+                                            max width for all the images.<div class="simpletable-container" css:display="block">
+                                                <table class="- topic/simpletable simpletable frame-none" css:border-bottom-color="black" css:border-bottom-style="none" css:border-collapse="collapse" css:border-left-color="black" css:border-left-style="none" css:border-right-color="black" css:border-right-style="none" css:border-top-color="black" css:border-top-style="none" css:display="table" css:hyphens="auto" css:margin-bottom="1em" css:margin-top="1em" css:table-layout="auto" frame="none" id="unique_7_Connect_42_simpletable_vdc_ddv_ktb" nd:nd-id="simpletable_vdc_ddv_ktb" relcolwidth="1* 1*">
                                                   <colgroup css:display="table-column-group">
                                                   <col css:display="table-column" css:width="50%" style="width:50%"/>
                                                   <col css:display="table-column" css:width="50%" style="width:50%"/>
@@ -589,16 +609,15 @@
                                                   </td>
                                                   </tr>
                                                   </tbody>
-                                                  </table>
-                                                </div></li>
-                                            <li class="- topic/li li" css:display="list-item">Figure
-                                                out precisely what you are doing the screenshots
-                                                for, and capture just the details you need. Take
-                                                some time to make sure that no UI element will be
-                                                left outside the frame if it is of importance. A
-                                                user should understand where the element in question
-                                                is located in the UI to be able to find it.<div class="simpletable-container" css:display="block">
-                                                  <table class="- topic/simpletable simpletable frame-none" css:border-bottom-color="black" css:border-bottom-style="none" css:border-collapse="collapse" css:border-left-color="black" css:border-left-style="none" css:border-right-color="black" css:border-right-style="none" css:border-top-color="black" css:border-top-style="none" css:display="table" css:hyphens="auto" css:margin-bottom="1em" css:margin-top="1em" css:table-layout="auto" frame="none" id="unique_7_Connect_42_simpletable_isf_3dv_ktb" nd:nd-id="simpletable_isf_3dv_ktb" relcolwidth="1* 1*">
+                                                </table>
+                                            </div></div>
+                                        <div class="- topic/p p" css:display="block" css:margin-top="1em">✅ Figure out precisely what you are
+                                            doing the screenshots for, and capture just the details
+                                            you need. Take some time to make sure that no UI element
+                                            will be left outside the frame if it is of importance. A
+                                            user should understand where the element in question is
+                                            located in the UI to be able to find it.<div class="simpletable-container" css:display="block">
+                                                <table class="- topic/simpletable simpletable frame-none" css:border-bottom-color="black" css:border-bottom-style="none" css:border-collapse="collapse" css:border-left-color="black" css:border-left-style="none" css:border-right-color="black" css:border-right-style="none" css:border-top-color="black" css:border-top-style="none" css:display="table" css:hyphens="auto" css:margin-bottom="1em" css:margin-top="1em" css:table-layout="auto" frame="none" id="unique_7_Connect_42_simpletable_isf_3dv_ktb" nd:nd-id="simpletable_isf_3dv_ktb" relcolwidth="1* 1*">
                                                   <colgroup css:display="table-column-group">
                                                   <col css:display="table-column" css:width="50%" style="width:50%"/>
                                                   <col css:display="table-column" css:width="50%" style="width:50%"/>
@@ -624,33 +643,30 @@
                                                   </td>
                                                   </tr>
                                                   </tbody>
-                                                  </table>
-                                                </div></li>
-                                            <li class="- topic/li li" css:display="list-item">Do not
-                                                use effects like shadow, borders, etc. They usually
-                                                look ugly, cheap, and generally don’t fit well with
-                                                documentation and books. The trouble with shadow
-                                                effect is they look good only on a particular
-                                                background.</li>
-                                            <li class="- topic/li li" css:display="list-item">If
-                                                possible, use a transparent background, because you
-                                                don’t know which background will have your reader.
-                                                Docs are outputted to various formats - HTML, PDF,
-                                                EPUB - with various backgrounds.</li>
-                                            <li class="- topic/li li" css:display="list-item">Use a
-                                                consistent style of screenshots with enhancements
-                                                (like callouts, text) and drawings - same font,
-                                                size, colors, design, etc.</li>
-                                            <li class="- topic/li li" css:display="list-item">Use
-                                                the same screenshot tool, app version, browser,
-                                                environment, etc. across your docs and team of tech
-                                                writers.</li>
-                                        </ul>
+                                                </table>
+                                            </div></div>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">✅ Do not use
+                                            effects like shadow, borders, etc. They usually look
+                                            ugly, cheap, and generally don’t fit well with
+                                            documentation and books. The trouble with shadow effect
+                                            is they look good only on a particular background.</p>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">✅ If possible,
+                                            use a transparent background, because you don’t know
+                                            which background will have your reader. Docs are
+                                            outputted to various formats - HTML, PDF, EPUB - with
+                                            various backgrounds.</p>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">✅ Use a
+                                            consistent style of screenshots with enhancements (like
+                                            callouts, text) and drawings - same font, size, colors,
+                                            design, etc.</p>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">✅ Use the same
+                                            screenshot tool, app version, browser, environment, etc.
+                                            across your docs and team of tech writers.</p>
                                     </section>
                                 </div>
                             </article>
                             <article aria-labelledby="ariaid-title8" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_8" nd:nd-id="t_my_ninth_task" oid="t_my_ninth_task" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title8"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> Graphic elements on
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title8"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Graphic elements on
                                     screenshots</span></h2>
                                 <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                     <div class="- topic/author author" css:display="none">Ewa
@@ -743,7 +759,7 @@
                                 </div>
                             </article>
                             <article aria-labelledby="ariaid-title10" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_10" nd:nd-id="t_how_to_7_text_in_figures" oid="t_how_to_7_text_in_figures" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title10"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> Text in figures</span></h2>
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title10"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Text in figures</span></h2>
                                 <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                     <div class="- topic/author author" css:display="none">Ewa
                                         Bołoz</div>
@@ -785,8 +801,7 @@
                                 </div>
                             </article>
                             <article aria-labelledby="ariaid-title11" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_11" nd:nd-id="t_how_to_8_text_associated_with_images" oid="t_how_to_8_text_associated_with_images" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title11"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> Text associated with
-                                    images</span></h2>
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title11"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Text associated with images</span></h2>
                                 <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                     <div class="- topic/author author" css:display="none">Ewa
                                         Bołoz</div>
@@ -836,9 +851,8 @@
                                                   text.</li>
                                                 <li class="- topic/li li" css:display="list-item">Don't use figure captions to replace alt
                                                   text.</li>
-                                                <li class="- topic/li li" css:display="list-item">Use full sentences.</li>
                                                 <li class="- topic/li li" css:display="list-item">Write short, descriptive alt text in 155
-                                                  characters or less.</li>
+                                                  characters or less. Use full sentences.</li>
                                                 <li class="- topic/li li" css:display="list-item">If
                                                   the image presents more useful information than
                                                   you can fit in the 155 character limit, include a
@@ -891,31 +905,26 @@
                                 <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                     <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
                                     <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"/>
-                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_12_Connect_42_ul_t5t_vmn_ktb" nd:nd-id="ul_t5t_vmn_ktb">
-                                            <li class="- topic/li li" css:display="list-item"> The
-                                                filename is crucial for easy handling, organization,
-                                                localization to other languages. Good filename
-                                                describes what is displayed in the picture. There is
-                                                nothing more annoying than working with images named
-                                                as <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">image3712.jpg</code>. The good filename is, e.g.
-                                                  <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">web-browser-settings.png</code>, <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">disabled-save-button.png</code> etc.</li>
-                                            <li class="- topic/li li" css:display="list-item">If you
-                                                write multilingual documentation, many (if not all)
-                                                pictures need to be language-specific. Adding
-                                                language local code to the filename is a good idea.
-                                                Somes system, like Sphinx, have support of
-                                                multilingual documentation and they recognize
-                                                locale-specific images with locale code in a
-                                                filename. You have <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">save-button.png</code>, <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">save-button.he.png</code> and <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">save-button.de.png</code>. If you build docs for
-                                                Hebrew (he), Sphinx picks up <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">save-button.he.png</code>, for German (de) <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">save-button.de.png</code>, and <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">save-button.png</code> for all other locales. </li>
-                                            <li class="- topic/li li" css:display="list-item">To
-                                                prevent problems on case-sensitive platforms, always
-                                                use lower-case in image filenames. Even some web
-                                                servers might tell 404 Not Found if you call in URL
-                                                “img/Save-Button.png” instead of
-                                                “img/save-button.png”.</li>
-                                        </ul>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"> The filename
+                                            is crucial for easy handling, organization, localization
+                                            to other languages. Good filename describes what is
+                                            displayed in the picture. There is nothing more annoying
+                                            than working with images named as <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">image3712.jpg</code>. The good filename is, e.g.
+                                                <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">web-browser-settings.png</code>, <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">disabled-save-button.png</code> etc.</p>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">If you write
+                                            multilingual documentation, many (if not all) pictures
+                                            need to be language-specific. Adding language local code
+                                            to the filename is a good idea. Somes system, like
+                                            Sphinx, have support of multilingual documentation and
+                                            they recognize locale-specific images with locale code
+                                            in a filename. You have <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">save-button.png</code>, <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">save-button.he.png</code> and <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">save-button.de.png</code>. If you build docs for
+                                            Hebrew (he), Sphinx picks up <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">save-button.he.png</code>, for German (de) <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">save-button.de.png</code>, and <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">save-button.png</code> for all other locales.</p>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">To prevent
+                                            problems on case-sensitive platforms, always use
+                                            lower-case in image filenames. Even some web servers
+                                            might tell 404 Not Found if you call in URL
+                                            “img/Save-Button.png” instead of
+                                            “img/save-button.png”.</p>
                                     </section>
                                 </div>
                             </article>
@@ -928,7 +937,6 @@
                                 <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                     <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
                                     <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"/>
                                         <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Some
                                             screenshots are published as-is, but often you want to
                                             improve their value with callouts, texts, and similar
@@ -954,7 +962,10 @@
                                     Bołoz</div>
                             </div>
                             <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
-                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">A simplified user interface (SUI) is a
+                                    visual representation of a software interface that removes
+                                    unimportant elements and reduces them to simpler shapes. Check
+                                    how to create SUI and where to use it.</p>
                                 <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">It is hard to
                                         imagine any complicated system documentation without
@@ -1149,7 +1160,9 @@
                                     Bołoz</div>
                             </div>
                             <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
-                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Decide when to use screenshots in your
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">One of the common questions when
+                                    developing documentation is, "How many screenshots should I
+                                    include?" Decide when to use screenshots in your
                                     documentation.</p>
                                 <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">One of the common
@@ -1212,7 +1225,7 @@
                                 <section class="- topic/section task/postreq section postreq" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_18_Connect_42_postreq_kb4_w35_ktb" nd:nd-id="postreq_kb4_w35_ktb">
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">With all of the above in mind,
                                             when to use and when not to use images?</strong></p>
-                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Use screenshots
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">✅ Use screenshots
                                         for the following purposes:</p>
                                     <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_18_Connect_42_ul_ipz_z35_ktb" nd:nd-id="ul_ipz_z35_ktb">
                                         <li class="- topic/li li" css:display="list-item">to orient
@@ -1270,7 +1283,11 @@
                                     Bołoz</div>
                             </div>
                             <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
-                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">You often need to take a screenshot of a
+                                    page that contains confidential information such as account
+                                    identifications, income data or personal info. Make sure to
+                                    mask, modify, or remove any personal identifiers, passwords,
+                                    logins, or other information that could compromise security.</p>
                                 <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Еven when we take
                                         a screenshot to send it to a friend, we have to be aware of
@@ -1399,7 +1416,10 @@
                                     Bołoz</div>
                             </div>
                             <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
-                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Find a proper screenshot tool.</p>
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">With good screenshot software, it is
+                                    easy to take screenshot and has built-in editor for basic
+                                    operations like cropping, drawing arrows, adding shapes and
+                                    texts etc. Find a proper screenshot tool for yourself.</p>
                                 <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Good screenshot
                                         software is an essential tech writer’s tool. With good
@@ -1411,26 +1431,12 @@
                                         in turn will help you to take a screenshot of the entire
                                         desktop or screen. These tools may vary in features such as
                                         screenshot size, quality, supported operating system, file
-                                        format types, etc. </p>
-                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Below you can find
-                                        a few free and paid tools, and their key features.</p>
-                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Paid tools:</strong></p>
-                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_22_Connect_42_ul_i1d_hqx_ktb" nd:nd-id="ul_i1d_hqx_ktb">
-                                        <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_23" format="dita" href="#unique_23" type="task">Snagit<css:after css:display="inline" css:font-style="italic" css:link="#unique_23"><css:text> (on page </css:text><css:target-counter url-fragment="unique_23"/><css:text>)</css:text></css:after></a></li>
-                                        <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_24" format="dita" href="#unique_24" type="task">Screenpresso<css:after css:display="inline" css:font-style="italic" css:link="#unique_24"><css:text> (on page </css:text><css:target-counter url-fragment="unique_24"/><css:text>)</css:text></css:after></a></li>
-                                        <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_25" format="dita" href="#unique_25" type="task">FastStone
-                                                Capture<css:after css:display="inline" css:font-style="italic" css:link="#unique_25"><css:text> (on page </css:text><css:target-counter url-fragment="unique_25"/><css:text>)</css:text></css:after></a></li>
-                                    </ul>
-                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Free tools:</strong></p>
-                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_22_Connect_42_ul_wgn_swb_ltb" nd:nd-id="ul_wgn_swb_ltb">
-                                        <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_26" format="dita" href="#unique_26" type="task">Snipping
-                                                Tool<css:after css:display="inline" css:font-style="italic" css:link="#unique_26"><css:text> (on page </css:text><css:target-counter url-fragment="unique_26"/><css:text>)</css:text></css:after></a></li>
-                                        <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_27" format="dita" href="#unique_27" type="task">Jing<css:after css:display="inline" css:font-style="italic" css:link="#unique_27"><css:text> (on page </css:text><css:target-counter url-fragment="unique_27"/><css:text>)</css:text></css:after></a></li>
-                                        <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_28" format="dita" href="#unique_28" type="task">Skitch<css:after css:display="inline" css:font-style="italic" css:link="#unique_28"><css:text> (on page </css:text><css:target-counter url-fragment="unique_28"/><css:text>)</css:text></css:after></a></li>
-                                    </ul>
+                                        format types, etc. You can choose from <a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_23" format="dita" href="#unique_23" type="task">free<css:after css:display="inline" css:font-style="italic" css:link="#unique_23"><css:text> (on page </css:text><css:target-counter url-fragment="unique_23"/><css:text>)</css:text></css:after></a>
+                                        or <a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="#unique_24" format="dita" href="#unique_24" type="task">paid<css:after css:display="inline" css:font-style="italic" css:link="#unique_24"><css:text> (on page </css:text><css:target-counter url-fragment="unique_24"/><css:text>)</css:text></css:after></a>
+                                        tools</p>
                                 </section>
                             </div>
-                            <article aria-labelledby="ariaid-title23" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_29" nd:nd-id="t_useful_tools_1_snagit" oid="t_useful_tools_1_snagit" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <article aria-labelledby="ariaid-title23" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_24" nd:nd-id="t_useful_tools_1_snagit" oid="t_useful_tools_1_snagit" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
                                 <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title23"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Paid tools</span></h2>
                                 <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                     <div class="- topic/author author" css:display="none">Ewa
@@ -1440,7 +1446,7 @@
                                     <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
                                     <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect"/>
                                 </div>
-                                <article aria-labelledby="ariaid-title24" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_23" nd:nd-id="t_snagit" oid="t_snagit" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <article aria-labelledby="ariaid-title24" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_25" nd:nd-id="t_snagit" oid="t_snagit" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
                                     <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:font-weight="300" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title24"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> Snagit</span></h3>
                                     <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                         <div class="- topic/author author" css:display="none">Ewa
@@ -1456,7 +1462,7 @@
                                                 edition options and screen recording facility.</p>
                                             <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Key
                                                   Features</strong>:</p>
-                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_23_Connect_42_ul_i5k_c3x_ktb" nd:nd-id="ul_i5k_c3x_ktb">
+                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_25_Connect_42_ul_i5k_c3x_ktb" nd:nd-id="ul_i5k_c3x_ktb">
                                                 <li class="- topic/li li" css:display="list-item">It
                                                   has a preview window which shows the zoomed image
                                                   of the area on which the cursor is hovering,</li>
@@ -1479,7 +1485,7 @@
                                         </section>
                                     </div>
                                 </article>
-                                <article aria-labelledby="ariaid-title25" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_24" nd:nd-id="t_wondershare_democreator" oid="t_wondershare_democreator" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <article aria-labelledby="ariaid-title25" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_26" nd:nd-id="t_wondershare_democreator" oid="t_wondershare_democreator" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
                                     <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:font-weight="300" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title25"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> Screenpresso</span></h3>
                                     <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                         <div class="- topic/author author" css:display="none">Ewa
@@ -1499,7 +1505,7 @@
                                                 capture history.</p>
                                             <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Key
                                                   Features:</strong></p>
-                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_24_Connect_42_ul_dyk_tsb_ltb" nd:nd-id="ul_dyk_tsb_ltb">
+                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_26_Connect_42_ul_dyk_tsb_ltb" nd:nd-id="ul_dyk_tsb_ltb">
                                                 <li class="- topic/li li" css:display="list-item">Screenpresso is available in the free version as
                                                   well as a premium version at a cost of €89 per
                                                   user.</li>
@@ -1527,7 +1533,7 @@
                                         </section>
                                     </div>
                                 </article>
-                                <article aria-labelledby="ariaid-title26" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_25" nd:nd-id="t_3_passfab_screen_recorder" oid="t_3_passfab_screen_recorder" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <article aria-labelledby="ariaid-title26" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_27" nd:nd-id="t_3_passfab_screen_recorder" oid="t_3_passfab_screen_recorder" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
                                     <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:font-weight="300" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title26"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> FastStone Capture</span></h3>
                                     <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                         <div class="- topic/author author" css:display="none">Ewa
@@ -1535,7 +1541,7 @@
                                     </div>
                                     <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                         <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
-                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_25_Connect_42_context_kcd_xqb_ltb" nd:nd-id="context_kcd_xqb_ltb">
+                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_27_Connect_42_context_kcd_xqb_ltb" nd:nd-id="context_kcd_xqb_ltb">
                                             <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="https://www.faststone.org/index.htm" format="html" href="https://www.faststone.org/index.htm" rel="external noopener" scope="external" target="_blank">FastStone
                                                   Capture<css:after css:display="inline" css:font-style="italic" css:link="https://www.faststone.org/index.htm"/></a>
                                                 is a screen capture tool, which easily captures the
@@ -1546,7 +1552,7 @@
                                                 sites or any other website.</p>
                                             <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Key
                                                   Features:</strong></p>
-                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_25_Connect_42_ul_mmj_trb_ltb" nd:nd-id="ul_mmj_trb_ltb">
+                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_27_Connect_42_ul_mmj_trb_ltb" nd:nd-id="ul_mmj_trb_ltb">
                                                 <li class="- topic/li li" css:display="list-item">For lifetime licenses, the cost is only
                                                   $19.95.</li>
                                                 <li class="- topic/li li" css:display="list-item">It
@@ -1579,7 +1585,7 @@
                                     </div>
                                 </article>
                             </article>
-                            <article aria-labelledby="ariaid-title27" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_30" nd:nd-id="t_useful_tools_2_wondershare_democreator" oid="t_useful_tools_2_wondershare_democreator" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <article aria-labelledby="ariaid-title27" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_23" nd:nd-id="t_useful_tools_2_wondershare_democreator" oid="t_useful_tools_2_wondershare_democreator" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
                                 <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title27"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Free tools</span></h2>
                                 <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                     <div class="- topic/author author" css:display="none">Ewa
@@ -1589,15 +1595,15 @@
                                     <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
                                     <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect"/>
                                 </div>
-                                <article aria-labelledby="ariaid-title28" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_26" nd:nd-id="t_1_snipping_tool" oid="t_1_snipping_tool" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:font-weight="300" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title28"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> Snipping Tool</span></h3>
+                                <article aria-labelledby="ariaid-title28" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_28" nd:nd-id="t_1_snipping_tool" oid="t_1_snipping_tool" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:font-weight="300" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title28"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Snipping Tool</span></h3>
                                     <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                         <div class="- topic/author author" css:display="none">Ewa
                                             Bołoz</div>
                                     </div>
                                     <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                         <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
-                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_26_Connect_42_context_vns_frb_ltb" nd:nd-id="context_vns_frb_ltb">
+                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_28_Connect_42_context_vns_frb_ltb" nd:nd-id="context_vns_frb_ltb">
                                             <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Snipping
                                                 tool is a program which is part of Windows Vista and
                                                 above versions. Snipping Tool allows you to take a
@@ -1611,7 +1617,7 @@
                                                 screenshot.</p>
                                             <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Key
                                                   Features:</strong></p>
-                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_26_Connect_42_ul_est_hrb_ltb" nd:nd-id="ul_est_hrb_ltb">
+                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_28_Connect_42_ul_est_hrb_ltb" nd:nd-id="ul_est_hrb_ltb">
                                                 <li class="- topic/li li" css:display="list-item">Snipping Tool is a default tool on Windows
                                                   PC.</li>
                                                 <li class="- topic/li li" css:display="list-item">It
@@ -1635,15 +1641,15 @@
                                         </section>
                                     </div>
                                 </article>
-                                <article aria-labelledby="ariaid-title29" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_27" nd:nd-id="t_2_jing" oid="t_2_jing" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:font-weight="300" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title29"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> Jing</span></h3>
+                                <article aria-labelledby="ariaid-title29" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_29" nd:nd-id="t_2_jing" oid="t_2_jing" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:font-weight="300" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title29"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Jing</span></h3>
                                     <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                         <div class="- topic/author author" css:display="none">Ewa
                                             Bołoz</div>
                                     </div>
                                     <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                         <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
-                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_27_Connect_42_context_vns_frb_ltb" nd:nd-id="context_vns_frb_ltb">
+                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_29_Connect_42_context_vns_frb_ltb" nd:nd-id="context_vns_frb_ltb">
                                             <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><a class="- topic/xref xref" css:color="rgb(97 , 168 , 223)" css:display="inline" css:link="https://www.techsmith.com/jing-tool.html" format="html" href="https://www.techsmith.com/jing-tool.html" rel="external noopener" scope="external" target="_blank">Jing<css:after css:display="inline" css:font-style="italic" css:link="https://www.techsmith.com/jing-tool.html"/></a>
                                                 is a screen capture tool provided by a software
                                                 company named TechSmith. The captured images are
@@ -1656,7 +1662,7 @@
                                                 in the market.</p>
                                             <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Key
                                                   Features:</strong></p>
-                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_27_Connect_42_ul_g3n_dsb_ltb" nd:nd-id="ul_g3n_dsb_ltb">
+                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_29_Connect_42_ul_g3n_dsb_ltb" nd:nd-id="ul_g3n_dsb_ltb">
                                                 <li class="- topic/li li" css:display="list-item">Jing is a free software to install on your
                                                   PC.</li>
                                                 <li class="- topic/li li" css:display="list-item">It
@@ -1676,15 +1682,15 @@
                                         </section>
                                     </div>
                                 </article>
-                                <article aria-labelledby="ariaid-title30" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_28" nd:nd-id="t_3_skitch" oid="t_3_skitch" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:font-weight="300" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title30"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"> Skitch</span></h3>
+                                <article aria-labelledby="ariaid-title30" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_30" nd:nd-id="t_3_skitch" oid="t_3_skitch" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:font-weight="300" css:line-height="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title30"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Skitch</span></h3>
                                     <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
                                         <div class="- topic/author author" css:display="none">Ewa
                                             Bołoz</div>
                                     </div>
                                     <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                         <p class="- topic/shortdesc shortdesc" css:display="block" css:font-style="italic" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
-                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_28_Connect_42_context_vns_frb_ltb" nd:nd-id="context_vns_frb_ltb">
+                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_30_Connect_42_context_vns_frb_ltb" nd:nd-id="context_vns_frb_ltb">
                                             <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Skitch is
                                                 a screen capture tool developed by EverNote for Mac
                                                 and Windows. It is a quick image capture and
@@ -1694,7 +1700,7 @@
                                                 etc.</p>
                                             <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Key
                                                   Features:</strong></p>
-                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_28_Connect_42_ul_apq_jsb_ltb" nd:nd-id="ul_apq_jsb_ltb">
+                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_30_Connect_42_ul_apq_jsb_ltb" nd:nd-id="ul_apq_jsb_ltb">
                                                 <li class="- topic/li li" css:display="list-item">Skitch is a free tool available for both Mac and
                                                   Windows.</li>
                                                 <li class="- topic/li li" css:display="list-item">Using Skitch tool a user can highlight any

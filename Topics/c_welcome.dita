@@ -5,6 +5,9 @@
 <concept id="my_first_topic">
 
     <title>Welcome</title>
+    <shortdesc>The main idea behind this project is to show you how to create great informative
+        screenshots that will save you and your readers a lot of time and learning
+        efforts.</shortdesc>
     <conbody>
         <p>A picture is worth a thousand words. We all take pictures of our screen from time to time
             because it is often the fastest way to show and explain something. </p>
@@ -14,7 +17,10 @@
             information privacy, text readability… </p>
         <p>The main idea behind this project is to show you how to create great informative
             screenshots that will save you and your readers a lot of time and learning efforts.</p>
-        <image placement="break" href="../Images/welcome.png" width="600" align="right"
+        <image placement="break" href="../Images/welcome.png" width="500" align="right"
             id="image_hnz_sqw_ktb"/>
+        <p>Created by Ewa Bołoz</p>
+        <p>e.kaczorkiewicz@gmail.com</p>
+        <p>Cracow, Poland</p>
     </conbody>
 </concept>

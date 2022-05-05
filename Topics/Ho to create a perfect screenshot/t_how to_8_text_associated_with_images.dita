@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_how_to_8_text_associated_with_images">
-    <title>          Text associated with images</title>
+    <title>Text associated with images</title>
     <shortdesc/>
     <taskbody>
         <context>
@@ -35,8 +35,8 @@
                         capital letters as each letter individually.</li>
                     <li>Introduce diagrams in the text, not in the alt text.</li>
                     <li>Don't use figure captions to replace alt text.</li>
-                    <li>Use full sentences.</li>
-                    <li>Write short, descriptive alt text in 155 characters or less.</li>
+                    <li>Write short, descriptive alt text in 155 characters or less. Use full
+                        sentences.</li>
                     <li>If the image presents more useful information than you can fit in the 155
                         character limit, include a brief summary of the image in the alt attribute
                         and also include the longdesc attribute to link to a more extensive

@@ -2,7 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_my_fifth_task">
     <title>Simplified User Interface</title>
-    <shortdesc/>
+    <shortdesc>A simplified user interface (SUI) is a visual representation of a software interface
+        that removes unimportant elements and reduces them to simpler shapes. Check how to create
+        SUI and where to use it.</shortdesc>
     <taskbody>
         <context>
             <p>It is hard to imagine any complicated system documentation without screenshots of
