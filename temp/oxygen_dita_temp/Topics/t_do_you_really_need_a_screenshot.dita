@@ -1,77 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Filip\Desktop\cwiczenie\ewa-boloz\temp\oxygen_dita_temp\Topics?><?workdir-uri file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/temp/oxygen_dita_temp/Topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="t_do_you_really_need_a_screenshot" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="task:1;3:46" specializations="@props/deliveryTarget">
-    <title class="- topic/title " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="title:1;4:12">Do you really need a screenshot?</title>
-    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="shortdesc:1;5:16">Decide when to use screenshots in your documentation.</shortdesc>
-    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="taskbody:1;6:15">
-        <context class="- topic/section task/context " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="context:1;7:18">
-            <p class="- topic/p " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="p:1;8:16">One of the common questions when developing documentation is, "How many screenshots
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Filip\Desktop\-Screenshots-best-practices\temp\oxygen_dita_temp\Topics?><?workdir-uri file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/temp/oxygen_dita_temp/Topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="t_do_you_really_need_a_screenshot" specializations="@props/deliveryTarget" xtrc="task:1;3:46" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">Do you really need a screenshot?</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">Decide when to use screenshots in your documentation.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/screenshots_best_practices_map.ditamap">Ewa Bołoz</author></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+            <p class="- topic/p " xtrc="p:1;8:16" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">One of the common questions when developing documentation is, "How many screenshots
                 should I include?" Answers range from "None!" to "All the screens!" A picture may be
                 worth a thousand words, but screenshots are often used as a crutch for poor
                 documentation or poor design. The best answer is to use them when you need them, and
                 don't use them when you don't. So how do you know when you need them?</p>
         </context>
-        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="steps:1;14:16">
-            <step class="- topic/li task/step " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="step:1;15:19">
-                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="cmd:1;16:22">Screenshots are only important to the documentation if they add value to the
+        <steps class="- topic/ol task/steps " xtrc="steps:1;14:16" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+            <step class="- topic/li task/step " xtrc="step:1;15:19" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;16:22" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">Screenshots are only important to the documentation if they add value to the
                     material. If you have a task that is only about several steps long, and you
                     included a screenshot every step of the way, it overflows the task and makes it
                     look more difficult than it is.</cmd>
             </step>
-            <step class="- topic/li task/step " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="step:2;21:19">
-                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="cmd:2;22:22">Graphics takes time — sometimes it takes even longer to create persuasive
+            <step class="- topic/li task/step " xtrc="step:2;21:19" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;22:22" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">Graphics takes time — sometimes it takes even longer to create persuasive
                     visuals as it does to write instructions.</cmd>
             </step>
-            <step class="- topic/li task/step " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="step:3;25:19">
-                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="cmd:3;26:22">For some audiences, screenshots aren’t important. For example, you would not
+            <step class="- topic/li task/step " xtrc="step:3;25:19" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;26:22" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">For some audiences, screenshots aren’t important. For example, you would not
                     tell a developer how to use a mouse; in fact, they may find it insulting that
                     you suggest they use a mouse at all. But if you are writing the content for
                     basic users, they may find screenshots very useful.</cmd>
             </step>
-            <step class="- topic/li task/step " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="step:4;31:19">
-                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="cmd:4;32:22">You must have in mind that every time your document gets modified, screenshots
+            <step class="- topic/li task/step " xtrc="step:4;31:19" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;32:22" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">You must have in mind that every time your document gets modified, screenshots
                     must get updated. And if you used a lot of them, imagine the future task.</cmd>
             </step>
-            <step class="- topic/li task/step " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="step:5;35:19">
-                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="cmd:5;36:22">If you use too many screenshots, users may be overly attracted to the visual
+            <step class="- topic/li task/step " xtrc="step:5;35:19" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;36:22" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">If you use too many screenshots, users may be overly attracted to the visual
                     and miss important points in the explanatory text.</cmd>
             </step>
-            <step class="- topic/li task/step " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="step:6;39:19">
-                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="cmd:6;40:22">Screenshots will make your documentation bigger, for sure, but if they make the
+            <step class="- topic/li task/step " xtrc="step:6;39:19" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;40:22" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">Screenshots will make your documentation bigger, for sure, but if they make the
                     document better, no one will care about bigger.</cmd>
             </step>
-            <step class="- topic/li task/step " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="step:7;43:19">
-                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="cmd:7;44:22">Screenshots may be necessary when you are writing about very complicated
+            <step class="- topic/li task/step " xtrc="step:7;43:19" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:7;44:22" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">Screenshots may be necessary when you are writing about very complicated
                     configurations or systems.</cmd>
             </step>
         </steps>
-        <postreq id="postreq_kb4_w35_ktb" class="- topic/section task/postreq " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="postreq:1;48:43">
-            <p class="- topic/p " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="p:2;49:16"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="b:1;49:19">With all of the above in mind, when to use and when not to use images?</b></p>
-            <p class="- topic/p " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="p:3;50:16">Use screenshots for the following purposes:</p>
-            <ul id="ul_ipz_z35_ktb" class="- topic/ul " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="ul:1;51:37">
-                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="li:1;52:21">to orient users in a complicated or long procedure</li>
-                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="li:2;53:21">to show complex windows or dialog boxes, such as those that contain multiple
+        <postreq class="- topic/section task/postreq " id="postreq_kb4_w35_ktb" xtrc="postreq:1;48:43" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+            <p class="- topic/p " xtrc="p:2;49:16" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;49:19" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">With all of the above in mind, when to use and when not to use images?</b></p>
+            <p class="- topic/p " xtrc="p:3;50:16" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">Use screenshots for the following purposes:</p>
+            <ul class="- topic/ul " id="ul_ipz_z35_ktb" xtrc="ul:1;51:37" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+                <li class="- topic/li " xtrc="li:1;52:21" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">to orient users in a complicated or long procedure</li>
+                <li class="- topic/li " xtrc="li:2;53:21" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">to show complex windows or dialog boxes, such as those that contain multiple
                     subsets of information, with free-form text fields and many options available
                     for selection</li>
-                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="li:3;56:21">to emphasize a new feature or change in the UI</li>
+                <li class="- topic/li " xtrc="li:3;56:21" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">to emphasize a new feature or change in the UI</li>
             </ul>
-            <p class="- topic/p " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="p:4;58:16"> Do not create or use screenshots of the following items:</p>
-            <ul id="ul_g2k_2j5_ktb" class="- topic/ul " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="ul:2;59:37">
-                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="li:4;60:21">code samples (instead, show code samples in code blocks)</li>
-                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="li:5;61:21">dialog boxes that are easy to understand, such as drop-down lists and option
+            <p class="- topic/p " xtrc="p:4;58:16" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita"> Do not create or use screenshots of the following items:</p>
+            <ul class="- topic/ul " id="ul_g2k_2j5_ktb" xtrc="ul:2;59:37" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">
+                <li class="- topic/li " xtrc="li:4;60:21" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">code samples (instead, show code samples in code blocks)</li>
+                <li class="- topic/li " xtrc="li:5;61:21" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">dialog boxes that are easy to understand, such as drop-down lists and option
                     buttons with few or no free-form text fields</li>
-                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="li:6;63:21">confirmation boxes</li>
-                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="li:7;64:21">license agreement boxes</li>
-                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="li:8;65:21">message text (instead show message text within regular text)</li>
-                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="li:9;66:21">progress bars</li>
-                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="li:10;67:21">welcome windows</li>
-                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="li:11;68:21">wizard pages, especially Welcome pages and other simple pages</li>
-                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="li:12;69:21">tables created in another authoring tool</li>
-                <li class="- topic/li " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="li:13;70:21">a screen that is volatile and likely to change frequently</li>
+                <li class="- topic/li " xtrc="li:6;63:21" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">confirmation boxes</li>
+                <li class="- topic/li " xtrc="li:7;64:21" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">license agreement boxes</li>
+                <li class="- topic/li " xtrc="li:8;65:21" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">message text (instead show message text within regular text)</li>
+                <li class="- topic/li " xtrc="li:9;66:21" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">progress bars</li>
+                <li class="- topic/li " xtrc="li:10;67:21" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">welcome windows</li>
+                <li class="- topic/li " xtrc="li:11;68:21" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">wizard pages, especially Welcome pages and other simple pages</li>
+                <li class="- topic/li " xtrc="li:12;69:21" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">tables created in another authoring tool</li>
+                <li class="- topic/li " xtrc="li:13;70:21" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">a screen that is volatile and likely to change frequently</li>
             </ul>
-            <p class="- topic/p " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="p:5;72:16">As an alternative to screenshots, use the correct names of the UI labels with which
+            <p class="- topic/p " xtrc="p:5;72:16" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">As an alternative to screenshots, use the correct names of the UI labels with which
                 the user must interact and the values that they must choose or enter. Show the names
                 of buttons, options, check boxes, menus, windows, dialog boxes, and so on as they
                 appear on the UI. For example, for straightforward instructions like, “To open a
-                file, select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_do_you_really_need_a_screenshot.dita" xtrc="b:2;76:33">File &gt; Open</b>,” a screenshot is not required.</p>
+                file, select <b class="+ topic/ph hi-d/b " xtrc="b:2;76:33" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_do_you_really_need_a_screenshot.dita">File &gt; Open</b>,” a screenshot is not required.</p>
         </postreq>
     </taskbody>
 </task>
