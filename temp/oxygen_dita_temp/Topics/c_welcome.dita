@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Filip\Desktop\-Screenshots-best-practices\temp\oxygen_dita_temp\Topics?><?workdir-uri file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/temp/oxygen_dita_temp/Topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="my_first_topic" specializations="@props/deliveryTarget" xtrc="concept:1;5:30" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/c_welcome.dita">
+
+    <title class="- topic/title " xtrc="title:1;7:12" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/c_welcome.dita">Welcome</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;8:16" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/c_welcome.dita">The main idea behind this project is to show you how to create great informative
+        screenshots that will save you and your readers a lot of time and learning
+        efforts.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/screenshots_best_practices_map.ditamap">Ewa Bołoz</author></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;11:14" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/c_welcome.dita">
+        <p class="- topic/p " xtrc="p:1;12:12" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/c_welcome.dita">A picture is worth a thousand words. We all take pictures of our screen from time to time
+            because it is often the fastest way to show and explain something. </p>
+        <p class="- topic/p " xtrc="p:2;14:12" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/c_welcome.dita">But, when making screenshots is part of your working process - this is a totally
+            different thing. Taking good quality pictures for documentation is not always easy. You
+            have to think about many things when making screenshots - image size, image quality,
+            information privacy, text readability… </p>
+        <p class="- topic/p " xtrc="p:3;18:12" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/c_welcome.dita">The main idea behind this project is to show you how to create great informative
+            screenshots that will save you and your readers a lot of time and learning efforts.</p>
+        <image align="left" class="- topic/image " href="../Images/welcome.png" id="image_hnz_sqw_ktb" placement="break" width="500" xtrc="image:1;21:37" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/c_welcome.dita"/>
+    </conbody>
+</concept>
