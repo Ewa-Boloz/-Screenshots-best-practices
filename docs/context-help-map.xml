@@ -2,6 +2,8 @@
 <map>
    <appContext helpID="my_first_topic" path="Topics/c_welcome.html"/>
    <appContext helpID="t_my_first_task" path="Topics/t_terminology.html"/>
+   <appContext helpID="t_do_you_really_need_a_screenshot"
+               path="Topics/t_do_you_really_need_a_screenshot.html"/>
    <appContext helpID="t_my_second_task"
                path="Topics/t_How%20to%20create%20a%20perfect%20screenshot.html"/>
    <appContext helpID="t_my_third_task"
@@ -31,8 +33,6 @@
                path="Topics/t_simplified_user_interface.html#SUI_1_why_to_use_it"/>
    <appContext helpID="t_SUI_3_how_to_create_sui"
                path="Topics/t_simplified_user_interface.html#t_SUI_3_how_to_create_sui"/>
-   <appContext helpID="t_do_you_really_need_a_screenshot"
-               path="Topics/t_do_you_really_need_a_screenshot.html"/>
    <appContext helpID="t_think_about_privacy" path="Topics/t_think_about_privacy.html"/>
    <appContext helpID="t_think_about_1_what_is_pii"
                path="Topics/t_think_about_privacy.html#t_think_about_1_what_is_pii"/>
