@@ -33,7 +33,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Topics/t_think_about_privacy.dita</String>
+                                    <String>Topics/t_useful_tools_free_and_paid.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -57,6 +57,29 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>Topics/Simplified%20User%20Interface/t_SUI_3_how_to_create_sui.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>PDF (CSS Formatter - HTML5)</String>
+                                        <String>WebHelp Responsive</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Topics/t_think_about_privacy.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -172,29 +195,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_1_size.dita</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>PDF (CSS Formatter - HTML5)</String>
-                                        <String>WebHelp Responsive</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>Topics/t_useful_tools_free_and_paid.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -562,13 +562,13 @@
                                         </ditaParameter>
                                         <ditaParameter>
                                             <field name="name">
-                                                <String>webhelp.pdf.link.text</String>
+                                                <String>webhelp.pdf.link.url</String>
                                             </field>
                                             <field name="description">
                                                 <null/>
                                             </field>
                                             <field name="value">
-                                                <String>Download project in PDF</String>
+                                                <String>https://ewa-boloz.github.io/-Screenshots-best-practices/screenshots_best_practices_map.pdf</String>
                                             </field>
                                             <field name="defaultValue">
                                                 <null/>
@@ -585,13 +585,13 @@
                                         </ditaParameter>
                                         <ditaParameter>
                                             <field name="name">
-                                                <String>webhelp.pdf.link.url</String>
+                                                <String>webhelp.pdf.link.text</String>
                                             </field>
                                             <field name="description">
                                                 <null/>
                                             </field>
                                             <field name="value">
-                                                <String>https://ewa-boloz.github.io/-Screenshots-best-practices/screenshots_best_practices_map.pdf</String>
+                                                <String>Download project in PDF</String>
                                             </field>
                                             <field name="defaultValue">
                                                 <null/>
