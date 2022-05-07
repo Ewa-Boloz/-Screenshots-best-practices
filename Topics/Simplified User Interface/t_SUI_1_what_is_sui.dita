@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="SUI_1_what_is_sui">
-    <title>          What is SUI?</title>
+    <title> What is SUI?</title>
     <shortdesc/>
     <taskbody>
         <context>
@@ -16,13 +16,13 @@
                         <stentry>
                             <image placement="break" href="../../Images/user_interface_1.png"
                                 width="550" align="left" id="image_jsf_3dv_ktb">
-                                <alt>full screen1</alt>
+                                <alt/>
                             </image>
                         </stentry>
                         <stentry>
                             <image placement="break" href="../../Images/user_interface_2.png"
                                 width="550" align="left" id="image_ksf_3dv_ktb">
-                                <alt>full screen 2</alt>
+                                <alt/>
                             </image>
                         </stentry>
                     </strow>

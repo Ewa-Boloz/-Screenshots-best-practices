@@ -5,12 +5,11 @@
     <shortdesc/>
     <taskbody>
         <context>
-            <p>&#9989; Crop screenshots to show the relevant information. For example, don't include
-                the full window if you just want to show a single button or menu item. Cropping
-                helps the reader focus on the information that you want to convey in the screenshot,
-                and it can help future-proof the screenshot if other parts of the UI
-                    change.<simpletable frame="none" relcolwidth="1* 1*"
-                    id="simpletable_gm5_3bv_ktb">
+            <p>&#9989; Crop screenshots to show the relevant information. Don't include the full
+                window if you just want to show a single button or menu item. Cropping helps the
+                reader focus on the information that you want to convey in the screenshot, and it
+                can help future-proof the screenshot if other parts of the UI change.<simpletable
+                    frame="none" relcolwidth="1* 1*" id="simpletable_gm5_3bv_ktb">
                     <sthead>
                         <stentry>many extra details</stentry>
                         <stentry>what we really needed</stentry>
@@ -19,23 +18,23 @@
                         <stentry>
                             <image placement="break" href="../../Images/background_noise_1.png"
                                 width="550" align="left" id="image_ey5_kbv_ktb">
-                                <alt>what we really needed</alt>
+                                <alt/>
                             </image>
                         </stentry>
                         <stentry>
                             <image placement="break" href="../../Images/background_noise_2.png"
                                 width="550" align="left" id="image_f1x_lbv_ktb">
-                                <alt>what we really needed</alt>
+                                <alt/>
                             </image>
                         </stentry>
                     </strow>
                     <strow/>
                 </simpletable><note id="note_tsd_mhz_htb" type="tip">It is always possible to add
-                    some graphics to draw attention to this pop-up window, but you need to think, if
+                    some graphics to draw attention to the pop-up window, but you need to think, if
                     the other parts of the screenshot are really needed. Remember also that:<ul
                         id="ul_cyt_mhz_htb">
                         <li>fullscreen images are usually pretty heavy in terms of the file size,
-                            traffic and loading time.</li>
+                            traffic and loading time</li>
                         <li>small elements will hardly be visible as such screenshots need to be
                             resized to fit in the text</li>
                         <li>fullscreen image content is more difficult to control - there's a higher
@@ -57,13 +56,13 @@
                         <stentry>
                             <image placement="break" href="../../Images/full_screen_1.png"
                                 width="550" align="left" id="image_wdc_ddv_ktb">
-                                <alt>full screen1</alt>
+                                <alt/>
                             </image>
                         </stentry>
                         <stentry>
                             <image placement="break" href="../../Images/full_screen_2.png"
                                 width="550" align="left" id="image_xdc_ddv_ktb">
-                                <alt>full screen 2</alt>
+                                <alt/>
                             </image>
                         </stentry>
                     </strow>
@@ -82,13 +81,13 @@
                         <stentry>
                             <image placement="break" href="../../Images/screenshot_context_1.png"
                                 width="550" align="left" id="image_jsf_3dv_ktb">
-                                <alt>full screen1</alt>
+                                <alt/>
                             </image>
                         </stentry>
                         <stentry>
                             <image placement="break" href="../../Images/screenshot_context_2.png"
                                 width="550" align="left" id="image_ksf_3dv_ktb">
-                                <alt>full screen 2</alt>
+                                <alt/>
                             </image>
                         </stentry>
                     </strow>

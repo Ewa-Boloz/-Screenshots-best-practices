@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="SUI_1_why_to_use_it">
-    <title>          Why to use it? </title>
+    <title> Why to use it? </title>
     <shortdesc/>
     <taskbody>
         <context><p/><sectiondiv><b>Better user experience</b><p>When you reduce the amount of
@@ -10,7 +10,8 @@
                     to direct the user’s attention to something specific.<image placement="break"
                         href="../../Images/user_interface_3.png" width="700" align="left"
                         id="image_crr_43v_ktb">
-                        <alt>interface</alt>
+                        <alt>All  elements of the UI are covered by regular shapes with the
+                            exception of one item which is shown to direct user's attention to it. </alt>
                     </image></p><p>Using a simplified user interface in help documentation can aid
                     in user success by giving them <b>only </b>the information they must have in
                     order to be successful, increasing their success and satisfaction with a
