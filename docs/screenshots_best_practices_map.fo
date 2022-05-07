@@ -313,8 +313,8 @@
                                 <fo:block-container space-after="0.5em" margin-left="0" margin-right="0" space-before="1em"><fo:block end-indent="0" start-indent="0">The main idea behind this project is to show you how to create
                                     great informative screenshots that will save you and your
                                     readers a lot of time and learning efforts.</fo:block></fo:block-container>
-                                <fo:block text-align="right">
-                                    <fo:table width="100%" table-layout="fixed" space-after="1em"><fo:table-column column-width="(100% - 500px) div 1"/><fo:table-column column-width="500px"/><fo:table-body><fo:table-row><fo:table-cell start-indent="0" end-indent="0"><fo:block/></fo:table-cell><fo:table-cell start-indent="0" end-indent="0"><fo:block-container max-height="100%" max-width="100%" id="unique_1_Connect_42_image_hnz_sqw_ktb" chfox:nd-id="image_hnz_sqw_ktb"><fo:block end-indent="0" start-indent="0"><fo:inline><fo:external-graphic src="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png" max-width="100%" max-height="100%" scaling="uniform" width="500px" content-width="scale-to-fit"/></fo:inline></fo:block></fo:block-container></fo:table-cell></fo:table-row></fo:table-body></fo:table>
+                                <fo:block text-align="left">
+                                    <fo:block-container space-after="1em" max-height="100%" max-width="100%" width="500px" id="unique_1_Connect_42_image_hnz_sqw_ktb" chfox:nd-id="image_hnz_sqw_ktb"><fo:block end-indent="0" start-indent="0"><fo:inline><fo:external-graphic src="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png" max-width="100%" max-height="100%" scaling="uniform" width="500px" content-width="scale-to-fit"/></fo:inline></fo:block></fo:block-container>
                                 </fo:block>
                             </fo:block></fo:block-container>
                         </fo:block></fo:block-container>

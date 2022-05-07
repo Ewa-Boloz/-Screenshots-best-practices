@@ -380,8 +380,8 @@
                                 <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">The main idea behind this project is to show you how to create
                                     great informative screenshots that will save you and your
                                     readers a lot of time and learning efforts.</p>
-                                <div class="imageright break" css:display="block" css:text-align="right">
-                                    <img align="right" class="- topic/image image imageright break" css:display="block" css:image-resolution="96dpi" css:margin-bottom="1em" css:margin-left="auto" css:max-height="100%" css:max-width="100%" css:width="500px" href="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png" id="unique_1_Connect_42_image_hnz_sqw_ktb" nd:nd-id="image_hnz_sqw_ktb" placement="break" src="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png" width="500"><css:content-on-element><css:uri extracted-image-height="654" extracted-image-width="1024" uri="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png"/></css:content-on-element></img>
+                                <div class="imageleft break" css:display="block" css:text-align="left">
+                                    <img align="left" class="- topic/image image imageleft break" css:display="block" css:image-resolution="96dpi" css:margin-bottom="1em" css:max-height="100%" css:max-width="100%" css:width="500px" href="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png" id="unique_1_Connect_42_image_hnz_sqw_ktb" nd:nd-id="image_hnz_sqw_ktb" placement="break" src="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png" width="500"><css:content-on-element><css:uri extracted-image-height="654" extracted-image-width="1024" uri="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Images/welcome.png"/></css:content-on-element></img>
                                 </div>
                             </div>
                         </article>
